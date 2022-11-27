@@ -87,8 +87,8 @@ async def extract_urls():
     endpoint = "https://www.usom.gov.tr/url-list.txt"
 
     data = (await get_async([endpoint]))[endpoint]
-    urls = []
-    ips = []
+    urls: set[str] = set()
+    ips: set[str] = set()
     if data != b"{}":
         entries = data.decode().split("\n")
         for entry in entries:
@@ -99,12 +99,12 @@ async def extract_urls():
                 # Possible IPv4 Address
                 try:
                     socket.inet_aton(domain)
-                    ips.append(domain)
+                    ips.add(domain)
                 except socket.error:
                     if entry:
-                        urls.append(entry)
+                        urls.add(entry)
             elif entry:
-                urls.append(entry)
+                urls.add(entry)
     if not urls and not ips:
         logger.error("No URLs found.")
     else:
