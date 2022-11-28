@@ -25,9 +25,10 @@ jobs:
             - name: Download URLs
               run: python scraper.py
 
-            - name: create ABP list
+            - name: create adblocking lists
               run: |
-                  sed 's/^/\|\|/;s/$/\$all/' urls.txt > urls_ABP.txt
+                  sed 's/^/\|\|/;s/$/\^/' urls.txt > urls_ABP.txt
+                  sed 's/^/\|\|/;s/$/\^$all/' urls.txt > urls_UBO.txt
 
             - name: commit files
               run: |
