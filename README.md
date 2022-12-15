@@ -4,7 +4,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
-[![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/USOM-Blocklists/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/USOM-Blocklists/actions/workflows/scraper.yml)
+[![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/USOM-Blocklists/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/USOM-Blocklists/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/USOM-Blocklists?label=Total%20Entries&style=for-the-badge" alt="Total Entries"/>
 
 Malicious URLs and IP Addresses compiled by [USOM (Computer Emergency Response Team of Turkey)](https://www.usom.gov.tr), updated once a day.
