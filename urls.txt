@@ -229,6 +229,7 @@
 1-microsoft.com
 1-myetherwallet.com
 1-odeme.online
+1-ortaktrf.dev
 1-yardimtalepelerim.org
 1-yardimtaleplerim.org
 1.indexsinas.me
@@ -814,6 +815,7 @@
 1drv.online
 1drv.surf
 1drvmail.work
+1drvmicrosoft.com
 1e-devletdestekbasvuru.com
 1e100.tech
 1e27c4459ad4.com
@@ -5406,6 +5408,8 @@ acikdeniz-mobildenizkredibank.com
 acikdeniz-mobildenizv2denizbank.com
 acikdeniz-mobilgir.com
 acikdeniz-mobilgiris.com
+acikdeniz-mobilgirisi.com
+acikdeniz-mobilgirisi.online
 acikdeniz-mobilgiristr.com
 acikdeniz-mobilgirisubecilik.ml
 acikdeniz-mobilhizmetkredi.com
@@ -5979,6 +5983,8 @@ acikdenizmobildijitaldevri-com.ml
 acikdenizmobildoviskampanya.com
 acikdenizmobildovizbank.com
 acikdenizmobildovizbankam.com
+acikdenizmobilgiris.com
+acikdenizmobilgiris.online
 acikdenizmobilgiristr.co.vu
 acikdenizmobilhediyev2-cekilis.com
 acikdenizmobilkampanyamiz.com
@@ -6155,6 +6161,7 @@ acikdenizv1duyurudeniz-com.ml
 acikdenizv1krediglobalonay.com
 acikdenizv1mobildenizhediyefest.co.vu
 acikdenizv1mobildenizkredim.co.vu
+acikdenizv1mobilerisimkredim.com
 acikdenizv1mobilkredifest.com
 acikdenizv1mobilonayal-com.tk
 acikdenizv1mobilskredim.com
@@ -6281,6 +6288,7 @@ acikdenizv2deniz-giris-com-tr.tk
 acikdenizv2deniz.tk
 acikdenizv2denizbank-2023giris.ml
 acikdenizv2denizbank-basvur.cf
+acikdenizv2denizbank-basvur.com
 acikdenizv2denizbank-basvur.ga
 acikdenizv2denizbank-basvur.gq
 acikdenizv2denizbank-basvur.ml
@@ -8801,6 +8809,7 @@ aidathizmeti-iadekayitislem.com
 aidathizmeti-turkeygovtr.com
 aidathizmeti-turkiyegovtr.com
 aidathizmeti.com
+aidathizmetiniz.rf.gd
 aidathizmetler-turkiyegovtr.com
 aidathizmetleri-cimergovtr.com
 aidathizmetleri-saglikbakanligi.org
@@ -12985,9 +12994,11 @@ arabacekilisi-tr.com
 arabacekilisi.ml
 arabacekilisinekatilim.com
 arabadanatladi.xyz
+arabafirsatisizlerlerle.site
 arabahediyekatilimi.com
 arabaislemim.dev
 arabaislemlerim.dev
+arabakampanyasisizlerle.site
 arabamicinode.dev
 arabaminislemi.app
 arabamuayene.com
@@ -13070,6 +13081,7 @@ araccsssdmuayenee.net
 aracexpress.com/wp-admin/connection.php
 aracgecisii.sg-host.com
 arachasarsorgulama.net
+arachizlislemi.dev
 araci.org
 aracilehizligecxslerim.me
 aracilehizligecxslerim.online
@@ -13084,6 +13096,7 @@ aracininislemi.app
 aracinislemi.dev
 aracinizabakiyeyukleyin.world
 aracinizabakiyeyukleyin.xyz
+aracintumislemleri.dev
 aracistasyonlarinet.info
 arackmhasarsrg.net
 arackmmmerkezi.net
@@ -13153,6 +13166,8 @@ aracmuayenetakibim.com
 aracmuayenetuvturkrehberi.com
 aracmuayenewebhizmet.com
 aracmuayenewebhizmetleri.com
+aracmuayenex.com
+aracmuayenexarac.com
 aracmuayenexq.net
 aracmuayenexxcc.net
 aracmuayeneylm.net
@@ -13568,6 +13583,7 @@ arrangementday.top
 arrangementseduce.top
 arrangementsubtle.top
 arrangepublic.top
+arrascasdmuayenee.net
 arratritthe.com
 arrayconceit.top
 arrayimmersion.top
@@ -15207,6 +15223,7 @@ azure-cloud3.co.za
 azure-cloud3.web.za
 azure-cloud4.co.za
 azure-protect.online
+azure-protection.cloud
 azure-team.com
 azure.ms-tech.us
 azuredcloud.com
@@ -16759,6 +16776,10 @@ banknoteeye.top
 banknotemercury.top
 banknotereconcile.top
 banknotetactful.top
+bankofamerica.nyc
+bankofamerica.offerings.cloud
+bankofamerica.tel
+bankofamerica.us.org
 bankortakfinanskatilim.net
 bankothizligecis.com
 bankruptcybout.top
@@ -24778,6 +24799,7 @@ binancelldehediyeler2022.ml
 binancemega.net
 binancemobilgiris.com
 binanceneweventcampaigns.net
+binancenewyearsnewcampaignscheckandregister.net
 binanceniyifirsatlar.ml
 binancenow.net
 binances.us
@@ -24993,6 +25015,7 @@ binnanceguvenlibasvuru.website
 binnanceguvenlibasvuru.xyz
 binnancehediyeyagmurum.ml
 binnancelldehediyeler-com.ga
+binnancetr.tk
 binnannce.net
 binnce-iade.com
 binncebasvuru.online
@@ -28963,6 +28986,7 @@ blrewrclad.net
 blrh0in.cn
 bls-cll.ga
 blsbgmmhcdpx.me.uk
+blsdlkcmldm.net
 blsdmcletll.net
 blshfragile.top
 blsjckng.click
@@ -30286,6 +30310,7 @@ bnvmfjghs.site
 bnvmghfjdhrg.com
 bnxhbc25hwcv8b8afawhevzw.biz
 bnyfrt.top
+bnynmchgdl.net
 bo-crm.com/corel.com.bo/wp-config-ini.php
 bo0mball4.xyz
 boa-secure-online-team.xyz
@@ -33027,6 +33052,7 @@ bxlmcellsabahi.com
 bxlmcelpazarodeme.com
 bxlmcemllll.net
 bxlxdmcellaksamlar.com
+bxlymtonm.net
 bxmbcell.net
 bxmc1ll.net
 bxmc3ll-gelpaket.net
@@ -33533,6 +33559,7 @@ byuhopcell.net
 byuigecis.is-best.net
 byukleme.22web.org
 byuklemelerb.sg-host.com
+byunmcll.net
 byuunmlcel.net
 byvcceltl.com
 byvjodpabt.duckdns.org
@@ -34229,6 +34256,7 @@ cardspectrum.top
 cardzstorezone.com
 careerhypocritical.top
 careeronestop.site
+careers.bankofamerica.nyc
 careervsjob.com
 careerwitch.top
 carefuldemographic.top
@@ -35722,6 +35750,7 @@ cepnakit1.com
 cepnakitkredi.com
 cepnumaratasima.com
 cepnumaratasima.net
+ceponay-mobildeniz.xyz
 ceponay-vak-giris.xyz
 ceponline-qnbfinans.com
 ceponlineqnbfinans.com
@@ -37992,6 +38021,7 @@ cloud.bugscrowd.com
 cloud.corewidget.com
 cloud.cutepaty.com
 cloud.ghokswa.com
+cloud.globiscapital.co
 cloud.nathompsstra.com
 cloud.newsofnp.com
 cloud.wmiprvse.com
@@ -39625,6 +39655,7 @@ cooperativeconvoy.top
 cooperativology.com
 cooperfultoncpsc240.net
 coopersong.org
+cooporatestock.com
 coopsonic.xyz
 coordinated123.xyz
 coordinatefabulous.top
@@ -40400,6 +40431,7 @@ crna-macka.com/d8743fgh
 crocodiledetain.top
 crocopexpire.ug
 crogtrt.com
+crokiverglordins.net
 crolsbwhpehmwaw.cn
 cromecho.com
 cron.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
@@ -42968,6 +43000,7 @@ deniz-basvurum2020.com
 deniz-basvurumcepte.com
 deniz-basvurumcepten.com
 deniz-basvurusayfam.com
+deniz-basvurusu.net
 deniz-bildirim-onay-gov-tr.ml
 deniz-bildirim-onay.com
 deniz-bilgilendirme-sorgulama.tk
@@ -45145,6 +45178,7 @@ denizdenonayliiade.com
 denizdenonlinebasvuru.com
 denizdenonlinecepp.tk
 denizdensana.tk
+denizdensevgi.net
 denizdensizeozel.tk
 denizdensube.com
 denizdensubem.cf
@@ -45367,6 +45401,7 @@ deniziisleminizinsubeev2.co
 denizik.com
 denizilaclamasirketlergrb.site
 denizileaktifhediyelerim.xyz
+denizilebonus.net
 denizilegir2019.com
 denizilegir2019.net
 denizilegir2019.org
@@ -45422,6 +45457,7 @@ denizinguzelgunleri.net
 denizinguzellikleri.com
 denizinguzellikleri.ml
 denizinizdenv2.co.vu
+denizinizv2.net
 denizinmavisi.com
 denizinsubelerigiris.net
 denizinsubesi.com
@@ -45908,6 +45944,7 @@ denizmobilsubemgiris.com
 denizmobilsubesi.xyz
 denizmobilt.com
 denizmobiltr.com
+denizmobilv2.xyz
 denizmobilv2acikdenizyatirimgold.com
 denizmobilv2basvuru.tk
 denizmobilv2kredibasvuru.tk
@@ -46240,6 +46277,7 @@ deniztrwebtrtc.com
 deniztrwebtrtc.org
 denizturkampanyakatilma.ml
 denizturkbank.com
+denizv1.net
 denizv2-giris-mobil-kampanyalar.ga
 denizv2-param.xyz
 denizv2-ramazanaozelcekilis.com
@@ -49788,7 +49826,9 @@ documents-view.live
 documents.accounts-support.services
 documents.mobile-messengerplus.network
 documentsfilesharing.cloud
+documentshare.info
 documentside.top
+docuprivacy.com
 docusigner-api.com
 docusigns.review
 docuvieware-licensing.com
@@ -51353,6 +51393,7 @@ e-aidati-basvurum.com
 e-aidatiade-turkiye.com
 e-aidatiade.com
 e-aidatiade.org
+e-aidatiade2022hizmetgovtr.ga
 e-aidatiadecimerbasvuru.com
 e-aidatiadeformu.com
 e-aidatiadeislemlerinizodeniyor.com
@@ -58963,6 +59004,7 @@ edirektbasvur.com
 edirnax.su
 edisetiyo.com
 edit-qnbfinansbank.ws
+edit.wpsonline.co
 editable-bank.xyz
 editarch.top
 edithwalker324.xyz
@@ -60709,6 +60751,7 @@ emlxkcernvmhhg.net
 emlxkcernvmhnhg.net
 emlxkg-borxc-odeme.net
 emlxkonlnevergodmleriqwe.net
+emlxkrtlaomdehmzet.net
 emlxksverfxc.net
 emlxkvergislmxlerqnrweqnrtqykle.net
 emlxkvergislmxlerqnrweqnrtqyklee.net
@@ -62098,6 +62141,7 @@ eodemehizmetin.dev
 eodemeislemim.app
 eodemeislemler.net
 eodemekgm.net
+eodemeleriniz.rf.gd
 eodo1.000webhostapp.com
 eofficeupdate.com
 eofficeupdating.com
@@ -62919,6 +62963,7 @@ eshtoyukleizmr.net
 eshtoyuklemeeizmrr.net
 eshtoyuklemeizmmr.net
 eshtoyuklemeizmr.net
+eshtoyuklemeizmrr.net
 eshtoyuklleizmrr.net
 eshtxbkayeyukle.online
 eshtxbkayeyukle.store
@@ -65406,7 +65451,9 @@ fadeee3030.sytes.net
 fadeee7777.zapto.org
 fadeflirtation.top
 fadesteward.top
+fadimehala1.com
 fadimehaserelerilaclamasi.site
+fadimeteyze.com
 fadzulani.com
 faenzabike.makkie.com
 fafafa1s.s3.eu-central-1.amazonaws.com
@@ -66015,6 +66062,7 @@ fceptthis.biz
 fchoula.ddns.net
 fcjibxxxaggbjwf.su
 fcloud.nciinform.ru
+fclouddown.co
 fcloudshare.xyz
 fcnotguardinrightful.cf
 fcojn.com
@@ -67194,6 +67242,7 @@ finottorubatta.xyz
 finra-online.com
 finsolutions.top
 fintur-a111a.appspot.com
+finxiio.com
 fiollool.ga
 fipa5anksube.ga
 fipahizmetonlinetr.tk
@@ -71327,6 +71376,7 @@ gdnhmb.top
 gdnlmr.top
 gdntmr.top
 gdocs.googleupload.info
+gdocshare.one
 gdplmy.top
 gdqjmt.top
 gdqtmg.top
@@ -71671,6 +71721,7 @@ genededuce.top
 genedeductible.top
 genedillardart.com
 geneflutter.top
+genel-karayollari-kralligi.blogspot.com
 genel-kart-iadeleri.com
 genel-kart-iadesi.com
 genel-subenbi.com
@@ -73285,6 +73336,7 @@ globalwqeqweqwddasd.com
 globedigitalmedia.com
 globething.top
 globevow.top
+globiscapital.co
 globoart.es
 gloomincur.top
 gloomstereotype.top
@@ -73611,6 +73663,7 @@ goldship15.xyz
 goldsit124.xyz
 goldsocialexpert.com
 goldson34.xyz
+goldsosvip.com
 goldspec324.xyz
 goldsrc23.xyz
 goldsssgy22apan.xyz
@@ -73845,6 +73898,7 @@ googlesearch.info
 googlesetting.com
 googlesevic.com
 googleshare.org
+googlesheet.info
 googlestoreplay.com
 googlesyst.com
 googlet.tk
@@ -78452,6 +78506,7 @@ halklaparafgunlerim.ml
 halklaparafgunlerim.tk
 halklardansikayetim.com
 halklasendekazan.com
+halklasigortam.com
 halklasizdekazanin.org
 halklayilbasindakazan.com
 halklbank.com
@@ -78925,6 +78980,7 @@ halkturkbk.com
 halkturkiye.com
 halkuygulama-cepdesube.com
 halkuygulama-paraf-com.tk
+halkuygun.com.tr
 halkvadelim.com
 halkwebgiris.bid
 halkwebsube.com
@@ -79815,6 +79871,7 @@ hddwmn.top
 hdeglj.top
 hdeguqlrmx.duckdns.org
 hdevugeudqcplpp.su
+hdeykleme.net
 hdfc.pp.ru
 hdfghfg.great-site.net
 hdfilm-seyret.com
@@ -81328,6 +81385,7 @@ hgjsabahyuklemesi.com
 hgjsyuklemerixsle.com
 hgjwogfrgror.xyz
 hgk.q7pitkl6y.top
+hgkhjdkdsj.net
 hgklsckjsa.org
 hgkvofk.net
 hgkyklegec.org
@@ -82640,6 +82698,7 @@ hgsmusteritrgecls.com
 hgsmvsddddonln.net
 hgsmvsodmmm.tk
 hgsmyuklemem.net
+hgsmzanalaririim.net
 hgsnetal.com
 hgsnezxx.xyz
 hgsnezxxxx.xyz
@@ -84637,6 +84696,7 @@ hizliotogeciscilikte.blogspot.com
 hizliotogecisservis.net
 hizliotomatikgecislersizlerle.blogspot.com
 hizliotomatkgeciscilik.net
+hizliotomobilimizyerlivemilli.net
 hizliotomtkdebizimle.net
 hizliotomtkgecs.blogspot.com
 hizliotoserviscilikmerkezleri.net
@@ -85122,6 +85182,7 @@ hlelew3.xyz
 hlftowgtpvcwlvo.ru
 hlgls-devletkapim.gq
 hlgs-demo.xyz
+hlgs-xhgsodertrizbiz.rf.gd
 hlgsgxsiniz.net
 hlgsomzoltk.org
 hlgsyuklicim.net
@@ -85682,6 +85743,7 @@ hotmailalert.com
 hotmeethotgerls.info
 hotnews.16mb.com
 hotnews.16mb.com/wp-content/themes/twentysixteen/template-parts/content-header.php
+hotsaosaonasldin.net
 hotsasaoslasnen.net
 hotsasdalasane.net
 hotsaseaosnlaine.net
@@ -85835,6 +85897,7 @@ hs8068.com
 hsabahciyuklemernzz.com
 hsabahlaryuklemeleriinzz.com
 hsaihmmlnysdbjy.su
+hsajkdhsakj.net
 hsaqbmykleeeeeeesz.net
 hsbank.co
 hsbank.online
@@ -85942,6 +86005,7 @@ hsgpttavm.ltd
 hsgpttavm.website
 hsgpttavmservices.com
 hsgs-demo.xyz
+hsgs-klyodeme.net
 hsgs-osyg-onlineislemler.com
 hsgscbardalar.com
 hsgsfdyklemedg.net
@@ -85987,6 +86051,7 @@ hss2.org
 hss2.world
 hssabahyuklemerlr.com
 hssc.co.uk
+hssdexxdeykleme.net
 hssggeceyuklemesi.org
 hsshivling.com/9efesfwep/b7xi_dys_5menh13/
 hsspsaepah.net
@@ -86513,6 +86578,7 @@ hxodemelerimykle.net
 hxqgsjyklemenoktasi.net
 hxqlalzodemelerizx.net
 hxrgfkgcwpreeob.ru
+hxsaodemealcxz.net
 hxsaqwyklemea.net
 hxsavmptt-online.com
 hxsazxdwqdas.net
@@ -89086,6 +89152,7 @@ ilkrenkkaraaa.com
 ilksaat.com
 ilksubeacikdenizv2denizbank.co.vu
 ilkuveytturk.com
+ilkvazifenbu.online
 ilkxyltmjuem.com
 illahaoee191.xyz
 illahayda20.xyz
@@ -90371,6 +90438,7 @@ inspiretactful.top
 inssanayi.mobi
 insstagrams.com
 inst.rsnet-devel.com
+inst.shconstmarket.com
 insta-art.co.za//db-config-ini.php
 insta-art.co.za//db_template.php
 insta-art.co.za/db-config-ini.php
@@ -94065,6 +94133,7 @@ istanbulmemis.com
 istanbulmkrtcl.net
 istanbulmobile.net
 istanbulnormalyukle.net
+istanbulodemenoktasihizmeti.net
 istanbulotobusode.net
 istanbulotomat.org
 istanbulout.net
@@ -94114,6 +94183,7 @@ istanbulyuklesen.net
 istanbulyxklemeeee.com
 istanbulzuah.online
 istanbuulkartodxeme.org
+istanbvlasjer.net
 istanbvlkartyukleme.net
 istanbwkrt.net
 istanbwlkrt.net
@@ -94380,6 +94450,7 @@ istnblkrtquez.net
 istnblkrtx.net
 istnblkrtyklemerdeyiz.net
 istnblkrxtm.net
+istnblkxrtmgstc.net
 istnblkxrtyuklle.tech
 istnbllikart.com
 istnblllkrt.net
@@ -95053,6 +95124,7 @@ ivggportal.tk
 ivglbrada.net
 ivgmrtxlvfgi-3deme.net
 ivgmrtxlvfgi-4deme.com
+ivgtdg-vtgl.com
 ivguyoatfkv.net
 ivgvergizodemxetleri.net
 ivgvergodemzhsenelode.net
@@ -95306,8 +95378,10 @@ izm4rgncell.net
 izm4rgncl.net
 izm4rguncelm.net
 izm4rguncelx.net
+izm4rguncelxx.net
 izm4rk4rtaktif.net
 izm4rkyle.net
+izm4rleeykle.net
 izm4rlex.net
 izm4rleykle.net
 izm4rluzlmsvglm.net
@@ -95485,6 +95559,7 @@ izmirimdoldurr.net
 izmirimdolum.gq
 izmirimdolumbayikentkart.net
 izmirimebakiyeyukle.net
+izmirimguven.net
 izmirimhgs.net
 izmirimhktykm.net
 izmirimilegez.net
@@ -95499,6 +95574,7 @@ izmirimizinbonuslarim.net
 izmirimizkentimiz.net
 izmirimk.com
 izmirimk4rrtgng34floode.net
+izmirimk4rtb4kiy4yukleme.net
 izmirimk4rtonlineext.net
 izmirimkampanya.com
 izmirimkar.tk
@@ -95524,7 +95600,9 @@ izmirimkartbakiyeyukleme-onlineizmirkartyukle-izzmxrryklle.net
 izmirimkartbakiyeyukleme.com
 izmirimkartbkye.net
 izmirimkartcurotxsz.net
+izmirimkartdoldurma-yklee.net
 izmirimkartdolm.net
+izmirimkartdolum-yklee.net
 izmirimkartdolum.net
 izmirimkartdolum35.net
 izmirimkartdolun.net
@@ -95901,6 +95979,7 @@ izmirmkarrtbakiyeyukle.com
 izmirmkart.net
 izmirmkartbakiyeyukleme.gq
 izmirmkartyxkleme.net
+izmirmkrt.com
 izmirmkrtdme.net
 izmirmkrtlaltfn35.net
 izmirmkrtmayuklee.net
@@ -95985,6 +96064,7 @@ izmkrnt-krrrt.net
 izmkrt.net
 izmlklklvklk.net
 izmlktltktn.net
+izmlkvlkvlkk.net
 izmlrlkartmayukle.net
 izmlrlmislemler.net
 izmlrmbakyehemnsendgel.net
@@ -96171,6 +96251,7 @@ izmrkrttdlmrkeziykle.com
 izmrkrttdlmyklmerkzi.com
 izmrkrtw.net
 izmrkrtx.net
+izmrkrtykle.net
 izmrkrtyklebkydlmrkzi.net
 izmrkrtyklebkydlmrrkzi.net
 izmrkrtyklebkyndlsn.net
@@ -96371,6 +96452,7 @@ izmrykle.net
 izmrykledlmrkezi.com
 izmrykleeex.net
 izmrykleemex.net
+izmrykleex.net
 izmrykleme.org
 izmryklemedoldrmerkezm.net
 izmryklemexx.net
@@ -96404,6 +96486,7 @@ izmxrimyxkleme.net
 izmxrkrt.net
 izmxrkrtt-hizliol.net
 izmxrkrtukleme.net
+izmxrkrtx-odeme.net
 izmxrkxrtyxkleme.net
 izmxrlerimmm.net
 izmxrmcnmkram.net
@@ -96441,6 +96524,7 @@ izraatkampanyam.com
 izraatkampnyam.com
 izrmimkartim.net
 izrmkarttlyuklle.net
+izrmqmm-ykleee.net
 izrmwlmd-krtttrt.net
 izrmxrdme.net
 izsmdsklm-ktrtrt.net
@@ -96466,6 +96550,8 @@ izwmrkrt.net
 izwmrkxrt.net
 izwxmrkxrt.net
 izxakarstim.net
+izxmrimkxrt.net
+izxmrkxrttyukleme.net
 izxmrm.net
 izxmrmcmxm.net
 izxmrmkrtlr.net
@@ -96483,6 +96569,7 @@ izyitdjv.ru
 izykl.com
 izzcxzafasmekkxrtasd.net
 izzlebutas.com
+izzmiodemeservisi.com
 izzmirinmtsl.net
 izzmirllm.net
 izzmirotomatikykle.com
@@ -99287,6 +99374,7 @@ karpuz-kavun-findik-fistik.net
 karpuzkirazkavun.site
 karreukomaya.net
 karsakla.yuropalarascatapakalamanalsooetredfa.net
+karsiyakli.net
 karsiykleme.22web.org
 karsvegas.surf
 kart-aidat-aidesi.com
@@ -103784,6 +103872,7 @@ lectuspro.biz
 ledandrefres.com
 ledderofort.com
 ledenizbank.com
+ledger-cloud.com
 ledgerbtc.club
 ledgerservice.itsaol.com
 ledhsqs.com
@@ -106031,6 +106120,7 @@ lzmirlilerkrt.net
 lzmirlim.net
 lzmirlimyuklemeyapsanakeke.net
 lzmirliyiklaa.net
+lzmirliylegez.net
 lzmirlmdlmypx.blogspot.com
 lzmirmetromiz.org
 lzmirmk4rt.net
@@ -109690,6 +109780,7 @@ miyfandecompany.com
 miyukleme.22web.org
 mizotron.com
 mizotron.info
+mizuhogroup.us
 mjayoxbvakjjouxir0z.xyz
 mjaznxbvakjjouxir0z.xyz
 mjcodoyaxm.duckdns.org
@@ -111273,6 +111364,7 @@ modestworld.top
 modestyextract.top
 modestyglitter.top
 modetemperament.top
+modgez.net
 modgon.com
 modhgsz.com
 modhotels.store
@@ -111588,6 +111680,7 @@ moonsteel.ae/wp-content/themes/twentyfifteen/genericons/db-config-ini.php
 moonsteel.ae/wp-content/themes/twentyfifteen/genericons/wp-config-ini.php
 moonstrockah.pw
 moonwealth.top
+mooobilacckdnnz.com
 mooobilbiireseelaackddnz.com
 mooobilbireyseelbasvuruuuackkkkdnzzz.com
 mooobilllbiiireeeeysseeeelonnnaaay.com
@@ -112010,6 +112103,7 @@ ms-tech.us
 ms-trace.net
 ms-update-server.net
 ms.hgsyuklemeyerii.net
+ms.onlineshares.cloud
 ms21-app3-upload.com
 ms6-upload-serv3.com
 ms667.ddns.net
@@ -113064,6 +113158,7 @@ mtvsaliodemesix.org
 mtvsanalodeme.com
 mtvsecure.org
 mtvsencen.net
+mtvserviccess.net
 mtvservicesxhytlarm.tk
 mtvservisimmg.tk
 mtvsetkins.com
@@ -113221,6 +113316,7 @@ mtvyuklemeonlines.com
 mtvyuklemesbayi.com
 mtvzamanalaiiririm.net
 mtvzamanalairirim.net
+mtvzamanalalrniziziizm.net
 mtvzamaninizim.net
 mtvzamanode.net
 mtvzborcsodemeleri.com
@@ -113333,6 +113429,7 @@ muayenerandevusu.net
 muayeneservisiturkiye.net
 muayenesistemim.online
 muayenetuvturk.co
+muayne-randevusu.com
 muaynehizmetlerinizinadresi.com
 muaynehizmetservisimiz.com
 muaynemerkezisistemimiz.com
@@ -114115,6 +114212,7 @@ mzizbp.info
 mzjc.is
 mzjing.com
 mzkletriasa01.site
+mzlleerrkartykeklemr.net
 mzozldjgr.org
 mzuzulionsclub.org/modules/db-config-ini.php
 mzuzulionsclub.org/modules/wp-config-ini.php
@@ -118758,6 +118856,7 @@ onlinecepsubeislemleri.me
 onlinecepyapikredi.com
 onlinecezaode.ml
 onlinecfcu.com
+onlinecloud.cloud
 onlinecoinhediyesiparim.com
 onlinecurtain.top
 onlinedenizbireysel.xyz
@@ -120156,6 +120255,7 @@ orrereide.ru
 orrespondingarmo.top
 orrrtaktraffik.tk
 orrtaktrafik.tk
+orsalakamslaratalopatramaskalar.net
 orsaledthen.ru
 orsbucocurat.duckdns.org
 orsignify.top
@@ -121387,6 +121487,7 @@ pak-ed-041.blogspot.com
 pak-ed-118.blogspot.com
 pak-ed-71.blogspot.com
 pak-ed-819.blogspot.com
+pak-et-442x.blogspot.com
 pak-et-443.blogspot.com
 pak-et-47.blogspot.com
 pak-et-60.blogspot.com
@@ -125638,6 +125739,7 @@ paywanthgs.tk
 payyardim.blogspot.com
 pazarcim.name.tr
 pazargunugez.net
+pazargununeozeli.online
 pazarkapinda.site
 pazarlamaticaretlerkook.tk
 pazarlardaelmalar.tk
@@ -126029,6 +126131,7 @@ persecutioncongregate.top
 persecutioneccentric.top
 persecutionlounge.top
 perseemre.top
+perseus.bond
 perseverancedesignate.top
 perseverancenk.top
 perseverecrouch.top
@@ -128416,6 +128519,7 @@ privacycorrosion.top
 privacylog.info
 privacyservicepanel.great-site.net
 privacyshield.services
+privacysign.org
 privacytools.xyz
 privacytoolsforyou.site
 privat-bankau.com
@@ -130116,6 +130220,7 @@ pzopjm.top
 pzrasdgavrhznt.net
 pzrtsahzvasdasf.net
 pzrvergsahzmt.net
+pzrvhztsa.net
 pzsyqyuyrh.wcnv20.cn/instagram-me
 pztahgahsvz.net
 pzwckyjyn.info
@@ -133123,6 +133228,7 @@ reklamabakgotur.cf
 reklamajans.shop
 reklamas.info
 reklamasdhost.click
+reklamci.space
 reklamcilerdm.cf
 reklamgoooogle.cf
 reklamgoooogle.ga
@@ -134924,6 +135030,7 @@ s-get-paramguvende.tk
 s-get-sahibinden.net
 s-get-satisal.gq
 s-getguvendeparam.store
+s-getlinksahibinden.xyz
 s-getparamguvende.com
 s-getparamguvende.gq
 s-getparamguvende.shop
@@ -134969,6 +135076,7 @@ s-kurumsalsahibindenparamguvende-org.tk
 s-kurumsalsahibindenparamguvende.com
 s-kurumsalsahibindenparamguvende.online
 s-kurumsalsahibindenparamguvende.tk
+s-kurumsalsahibindenparamguvendecheckout.com
 s-odeme.shop
 s-onlineguvenlisatis.tk
 s-onlineodeme.net
@@ -139415,6 +139523,7 @@ shapemagg.xyz
 shaperectification.top
 shapingtomorrowsworld.org
 shardsound.net
+share.anobaka.info
 share.goglesheet.com
 share.googlefiledrive.com
 share.medialinks.cc
@@ -139478,6 +139587,7 @@ shbndenileparamhepguvende-com-tr.tk
 shbndenileparamhepguvende-com.tk
 shbndenileparamhepguvende.tk
 shces.likesyou.org
+shconstmarket.com
 shcserv.com
 shebens.com
 shecaton.top
@@ -141752,6 +141862,7 @@ smashreconciliation.top
 smaulmartinakan.club
 smaximu758.xyz
 smbc-cardhucu.buzz
+smbcgroup.us
 smbiztalk.com
 smcbscbs.com
 smchkjahn.duckdns.org
@@ -143787,6 +143898,7 @@ stabilizerconnet.club
 stabilsaglik.fun
 stableagent.top
 stableclergy.top
+stablehouses.info
 stablepropeller.top
 stablesense.top
 stablishatrocit.top
@@ -147493,6 +147605,7 @@ tbms-kart-aidat-iade-sistemleri-g-o-v-tr.com
 tbmsipandemisayfasi.com
 tbpack.cn
 tbt-sceitech.com
+tbtrkaskrs.net
 tbturkiye.com
 tbturkiye.gen.tr
 tbturkland.com
@@ -148449,6 +148562,7 @@ tealfortera.org
 tealongitude.top
 team-apple-id.com
 team-bobcat.org
+team.msteam.biz
 teamchuan.com
 teamcloudcomputing.com
 teameticulous.top
@@ -149019,10 +149133,12 @@ tekdokunus.xyz.gidatas.com
 tekfordummies.com
 tekfordummies.com/wp-content/plugins/social-auto-poster/includes/libraries/delicious/Delicious.php
 tekgirislerburada.xyz
+tekgirpera.fun
 tekhaber.site
 tekhgsb.com
 tekhgsm.com
 tekigter3.us
+tekimsinpera.fun
 tekinlow.surf
 tekjoe.space
 tekmillet-irtibatwebdiyalogtr.com
@@ -149947,6 +150063,7 @@ tfcueler.xyz
 tffirvfslj.org
 tfftcbmhazineislerigovtr6353.com
 tfkvrgklrmleodemmx.net
+tfraikbrocodemene.net
 tftttlyyyl.duckdns.org
 tfulcivilcombat4.xyz
 tfunwd8.xdk8ax.cn
@@ -150729,6 +150846,7 @@ tip4top.at
 tiparcano.com
 tipbayraminaozel-kampanyalar.com
 tiphssnimcgisfl.ru
+tipoadres.site
 tipobet00889.com
 tipobet0725.com
 tipobet103.com
@@ -151702,6 +151820,8 @@ tpppuswgeool.site
 tprcghjj.org
 tprlink.com
 tprs-servers.eu
+tptf.cloud
+tptf.fund
 tpthgss.com
 tptlttmjrjgf.site
 tpttuicwxome.biz
@@ -152909,6 +153029,7 @@ trafikodemeler.com
 trafikodemeler.net
 trafikodemeler.org
 trafikodemeleri.blogspot.com
+trafikodemelerixd-odeme.net
 trafikodemeleriyap-kesintisiz.net
 trafikodemesi.net
 trafikodemesistemi.net
@@ -152932,6 +153053,7 @@ trafiksenborc.blogspot.com
 trafiksgodeme.net
 trafiksigorta-teklifal2019.com
 trafikslborcode.net
+trafiksodemelerigncll.net
 trafiksonuc.ml
 trafiksube.ga
 trafiksubehaberleri.com
@@ -153219,6 +153341,7 @@ traxbin.com
 traxessaidatiadesorugulama.com
 traxfik3dodemesi.net
 traxfikaksamt.net
+traxfikcazas.net
 traxfikcezs.net
 traxfikkperode.net
 traxfikoddeyyy.net
@@ -154413,6 +154536,7 @@ ttbrccbbmtrhazinegovuktr.com
 ttcjyyjedqru.xyz
 ttconf.pw
 ttcswpvxgdeaihqqsllvmrytunvkf.ru
+ttdvvtrandevuu.net
 ttelekom.internetabonelik.ne
 ttelekomtl.com
 ttfaturalarodemek.net
@@ -156382,6 +156506,7 @@ tuvaracmuaynehizmeti.net
 tuvaracmuaynehizmetiniz.com
 tuvaracmuaynehizmetiniz.net
 tuvaracmuaynehizmetleri.net
+tuvaracmuayneservishizmeti.net
 tuvaracmuayneservisi.net
 tuvaracmuaynesistemimiz.net
 tuvaracmuaynesistemleri.com
@@ -156417,6 +156542,7 @@ tuvtrkodemelesi.net
 tuvtrkodemesi.net
 tuvtrkodmelr.net
 tuvtrkodmz.net
+tuvtrkxes.net
 tuvtrmuayenehizmetin.com
 tuvtrwkk-muayene.net
 tuvtturkaracmuayene.com
@@ -156436,6 +156562,7 @@ tuvturk-aracc-randevu.net
 tuvturk-aracmuayene.com
 tuvturk-aracmuayene.net
 tuvturk-aracmuayenesi.net
+tuvturk-aracmuaynealanixodemes4muayne.net
 tuvturk-aracmuaynealanixodemes4muaynealani.net
 tuvturk-aracmuaynealanixodemes4muaynekgldfl.net
 tuvturk-aracmuaynealanixodemesrgu4muayne.net
@@ -156512,6 +156639,7 @@ tuvturmuaynesistemleri.com
 tuvturrk-muayene.com.tr
 tuvturxks-odxemexlexrii.net
 tuvturxracmuaynehizmetleri.net
+tuvtuxturk-3odeodemesixfdfdsfsd.net
 tuvtvkk-muaxyene.net
 tuvurukarac.net
 tuvvturkrezervasyon.com
@@ -156556,12 +156684,15 @@ tvitter-guvenlik.cf
 tvittergt.com
 tvkampanyalari.org
 tvkontrolum.site
+tvktkrslerks.net
+tvktrklmyneypm.net
 tvlettqa.online
 tvlrklrnvdu.net
 tvmii.xyz
 tvqsexh.in
 tvreezeersa.net
 tvrp.pw
+tvrtdk-muyanealma.com
 tvsbimcell.com
 tvtitanmynse.net
 tvtizmir.net
@@ -156575,6 +156706,7 @@ tvtrk-randevu-online.com
 tvtrk-rezervasyon.com
 tvtrkaracmuayenelsq.net
 tvtrkgk.net
+tvtrkk-malberko.com
 tvtrkkarc.net
 tvtrkkyklemmezsa.net
 tvtrklegothems.net
@@ -156591,6 +156723,7 @@ tvtrkodemesi.blogspot.com
 tvtrkrandevu.net
 tvtrkrandevuualma.com
 tvtrkzerkerim.net
+tvtrlasssskermc.net
 tvtrukmyne.net
 tvtsaersaersassf.net
 tvttasmersa.net
@@ -157417,6 +157550,7 @@ uncertainnpreednted.top
 uncertaintyaspire.top
 uncertaintyleverage.top
 uncertaintymalnutrition.top
+unchained-capital.co
 uncheckhel.com
 uncle-structure.com
 uncle134.xyz
@@ -158596,6 +158730,7 @@ v2ace5countmass.top
 v2acikdeniz-giris.com
 v2acikdeniz-hediye.com
 v2acikdenizi-bireysel.com
+v2acikmobil-hediye.com
 v2acikmobilde.com
 v2ade5mitcliff.top
 v2ahe5eadflip.top
@@ -158636,6 +158771,7 @@ v2dee5cidereveal.top
 v2dee5clineprice.top
 v2dee5skcereal.top
 v2deniizbank.com
+v2deniz.net
 v2denizbanacikdenizzkonlinekampanyacekilisigiriss.co.vu
 v2denizbanik-bireyselbasvuru.com
 v2denizbank-bireyselbasvuru.com
@@ -158644,6 +158780,7 @@ v2denizbank-firsatlari.com
 v2denizbank-hediye.com
 v2denizbank-hediyeler.com
 v2denizbank-kis.com
+v2denizbank-mobil.com
 v2denizbank.com
 v2denizbanki-basvuru.com
 v2denizbanki.com
@@ -159603,6 +159740,7 @@ vakifbankiadeeiade2021-cep.com
 vakifbankiadevakti.com
 vakifbankihtiyackredi.co.vu
 vakifbankihtiyackredisi.co.vu
+vakifbankihtiyaykredisi.com
 vakifbankilehediye.info
 vakifbankilehemenmercerdeskazan.co.vu
 vakifbankilekredimcepte.co.vu
@@ -161607,6 +161745,7 @@ verg1jiodemescimtl.net
 verg1ode.com
 verg55g.gb.net
 vergaespanola.site
+vergaswqe.net
 vergcmhizlicaodexmne.net
 vergcmodne.net
 vergcxdmee.net
@@ -161643,6 +161782,7 @@ vergi-iadeniz.com
 vergi-iadenoktasi.com
 vergi-iadesibasladi.com
 vergi-iadesistemi.com
+vergi-islerim.net
 vergi-odeme-govtr.info
 vergi-odeme-online-govtr.online
 vergi-odeme-yilbasiozel-yukle.net
@@ -161748,6 +161888,7 @@ vergihzliodemelerzzlt.net
 vergihzmtodeccnm.net
 vergihzmtsxa.net
 vergii-gib-gov-tr.net
+vergii-islemlerim.net
 vergiicimodeme.net
 vergiidaremtvodemesleri.net
 vergiidaresi.net
@@ -161857,6 +161998,7 @@ verginizi-odeme-govtr.online
 verginiziimiima.net
 verginizinzamanlari.net
 verginizinzamanlarii.net
+verginiznode.net
 verginxi-odexfexokt.net
 vergiode.site
 vergiodediniz.net
@@ -161884,6 +162026,7 @@ vergiodemelerimizburadadir.net
 vergiodemelerinizkolay.co.vu
 vergiodemelrinizxc.net
 vergiodemem.com
+vergiodemem.net
 vergiodememerkezi.org
 vergiodememgerek.net
 vergiodememl.net
@@ -162246,6 +162389,7 @@ verxdeodemele.net
 verxgsabaiserifix.net
 verxhxmetittkl.net
 verxigiodemev.net
+verxxgi-islmee.net
 very21bundle.top
 veryansinveri.online
 verybibliography.top
@@ -162402,6 +162546,7 @@ vhuenilodge.co.za/php/db-config-ini.php
 vhuoqy.top
 vhupo-tours.com/wp-includes/db-config-ini.php
 vi.hgsyuklemeyerii.net
+vi2denizbank-basvur.com
 viablebloc.top
 viablehaven.top
 viablehypocritical.top
@@ -163220,6 +163365,7 @@ vortex-crystal.com
 voscan23x.site
 vosp.xyz
 vot.internetdocss.com
+vote.anobaka.info
 vote2024trump.com
 voteeither.top
 votehad.su
@@ -163303,6 +163449,7 @@ vqwefrtiop1.website
 vqwrf.cn
 vqxxozpf061dwkkrv4fzhy82w.xyz
 vqzbgecpxot.info
+vr-giiligunlerim.net
 vr33g1odm3.online
 vr4gjcicjode.net
 vra4.com
@@ -163312,6 +163459,7 @@ vrbtek.top
 vrcacqkghghnsjr.su
 vrcmelo.ddns.net
 vrdenizbank.com
+vreegjsghsdhss.net
 vregimerkezi.com
 vregmerkez.com
 vreldmrnz.blogspot.com
@@ -163431,6 +163579,7 @@ vrxgexs0demelrl.net
 vrxgiiodmelrrr.net
 vrxgikskj22sode.net
 vrxgiodeindirimkazan.net
+vrxgiodemlak.net
 vrxscmmodnmee.net
 vrz08cj.xdk8ax.cn
 vrzbaloery.wcnv20.cn/instagram-me
@@ -164479,6 +164628,7 @@ web.postegro.work
 web.postegro.xyz
 web.postegrolili.org
 web.postegroweb.co
+web.shconstmarket.com
 web.sumarry.auth.page.secure.account.fongsaiyuks.com
 web.sumarry.auth.page.secure.accounts.tonupmotors.com
 web.trax.vip
@@ -165918,6 +166068,7 @@ wordingassassin.top
 wordingetiquette.top
 wordkeyvpload.net
 wordkeyvpload.org
+wordonline.cloud
 wordpress.acimueicxvraahcl.com
 wordpress.cfddkithydonudf.com
 wordpress.egyvwwpcktsiojuk.com
@@ -166201,6 +166352,7 @@ wpitcher.com
 wplvsp.top
 wpnnnedhtttt.info
 wpnull24.com
+wps.wpsonline.co
 wpsizyeri.com
 wpthemify.com
 wpynjtlvxpnoeqg.su
@@ -169375,6 +169527,7 @@ www-turkiyeisbankasi-kampanyakatilim-tc.com
 www-turkiyeisbankasi-kampanyakatilim-tr.com
 www-turkiyem-gov-tr.com
 www-tuvturk.com
+www-tuvturkaracsistem.com
 www-twitter.xyz
 www-twitterbussines-tr.tk
 www-twittter.com
@@ -170605,6 +170758,7 @@ www444hgorsodemerimicomtr.org
 www444hgskgsyklegovtr.net
 www444hgswww.org
 www444hgswwwhgswww.net
+www444hgswwwhgswww.org
 www639ggggggggg.cc
 www639sssssssss.cc
 www6444hgsodemegovtr.org
@@ -171697,6 +171851,7 @@ xkxjaqtxilsvxle.ru
 xkxtnk4rtykleme.net
 xkxvyirsyqmrwyt.su
 xl--yapkrdi-h8a3h3w.com
+xl-hsygodsinmler.shop
 xlbbpvnbfjwfo.info
 xlbmfpymhine.pw
 xldzrh.top
@@ -177225,6 +177380,7 @@ yeni-basvuru-pandemi-turkiyegovtr.com
 yeni-cepsube-denizbank.cf
 yeni-cepsube-denizbank.tk
 yeni-deneme.gq
+yeni-deniz-2023.net
 yeni-denizkampanyalari1359.ml
 yeni-donemdestek.tk
 yeni-giris-2022.com
@@ -177255,6 +177411,7 @@ yeni-yil-denizle.net
 yeni-yil-edevletportalgiris.com
 yeni-yil-kampanya.net
 yeni-yil-kampanyasi.net
+yeni-yillar-denizle.net
 yeni-ziraatbank.com
 yeni10gb.blogspot.com
 yeni1bayi.xyz
@@ -177554,6 +177711,7 @@ yeniyil.club
 yeniyil.xyz
 yeniyil10gbkazandiriyor.com
 yeniyil2020.com
+yeniyil2023denizlog.net
 yeniyila-ozel.com
 yeniyila-yakisansurprizgeldi.com
 yeniyila-yakisansurprizlergeldi2019.com
