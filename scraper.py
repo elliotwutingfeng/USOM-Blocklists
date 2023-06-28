@@ -98,7 +98,7 @@ async def extract_urls():
             if domain and not fqdn:
                 # Possible IPv4 Address
                 try:
-                    socket.inet_aton(domain)
+                    socket.inet_pton(socket.AF_INET, domain)
                     ips.add(domain)
                 except socket.error:
                     if entry:
