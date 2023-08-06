@@ -5,3 +5,5 @@ renovate.json
 scraper.py
 urls_ABP.txt
 urls_UBO.txt
+urls_UBL.txt
+urls_pihole.txt
