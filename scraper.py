@@ -2,6 +2,7 @@ import asyncio
 import ipaddress
 import logging
 import socket
+from datetime import datetime
 
 import aiohttp
 import tldextract
@@ -13,6 +14,15 @@ default_headers: dict = {
     "Connection": "keep-alive",
     "Accept": "*/*",
 }
+
+
+def current_datetime_str() -> str:
+    """Current time's datetime string in UTC
+
+    Returns:
+        str: Timestamp in strftime format "%d_%b_%Y_%H_%M_%S-UTC".
+    """
+    return datetime.utcnow().strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
 async def backoff_delay_async(
@@ -28,7 +38,7 @@ async def backoff_delay_async(
 
 
 async def get_async(
-    endpoints: list[str], max_concurrent_requests: int = 5, headers: dict = None
+    endpoints: list[str], max_concurrent_requests: int = 5, headers: dict | None = None
 ) -> dict[str, bytes]:
     """Given a list of HTTP endpoints, make HTTP GET requests asynchronously
 
@@ -93,31 +103,77 @@ async def extract_urls():
     endpoint = "https://www.usom.gov.tr/url-list.txt"
 
     data = (await get_async([endpoint]))[endpoint]
-    urls: set[str] = set()
+    non_ips: set[str] = set()
     ips: set[str] = set()
+    fqdns: set[str] = set()
+    registered_domains: set[str] = set()
     if data != b"{}":
-        entries = data.decode().split("\n")
-        for entry in entries:
-            entry = entry.strip()
-            res = tldextract.extract(entry)
-            domain, fqdn = res.domain, res.fqdn
+        urls = data.decode().split("\n")
+        for url in urls:
+            url = url.strip()
+            res = tldextract.extract(url)
+            registered_domain, domain, fqdn = (
+                res.registered_domain,
+                res.domain,
+                res.fqdn,
+            )
             if domain and not fqdn:
                 # Possible IPv4 Address
                 try:
                     socket.inet_pton(socket.AF_INET, domain)
                     ips.add(domain)
                 except socket.error:
-                    if entry:
-                        urls.add(entry)
-            elif entry:
-                urls.add(entry)
-    if not urls and not ips:
+                    if url:
+                        non_ips.add(url)
+            elif fqdn:
+                non_ips.add(url)
+                fqdns.add(fqdn)
+                registered_domains.add(registered_domain)
+    if not non_ips and not ips:
         logger.error("No URLs found.")
     else:
-        with open("urls.txt", "w") as f:
-            f.write("\n".join(sorted(urls)))
-        with open("ips.txt", "w") as f:
+        non_ips_timestamp: str = current_datetime_str()
+        non_ips_filename = "urls.txt"
+        with open(non_ips_filename, "w") as f:
+            f.write("\n".join(sorted(non_ips)))
+            logger.info(
+                "%d URLs written to %s at %s",
+                len(non_ips),
+                non_ips_filename,
+                non_ips_timestamp,
+            )
+        ips_timestamp: str = current_datetime_str()
+        ips_filename = "ips.txt"
+        with open(ips_filename, "w") as f:
             f.write("\n".join(sorted(ips, key=ipaddress.IPv4Address)))
+            logger.info(
+                "%d IPs written to %s at %s",
+                len(ips),
+                ips_filename,
+                ips_timestamp,
+            )
+
+    fqdns_timestamp: str = current_datetime_str()
+    fqdns_filename = "urls_pihole.txt"
+    with open(fqdns_filename, "w") as f:
+        f.writelines("\n".join(sorted(fqdns)))
+        logger.info(
+            "%d FQDNs written to %s at %s",
+            len(fqdns),
+            fqdns_filename,
+            fqdns_timestamp,
+        )
+
+    registered_domains_timestamp: str = current_datetime_str()
+    registered_domains_filename = "urls_UBL.txt"
+    with open(registered_domains_filename, "w") as f:
+        f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
+        logger.info(
+            "%d Registered Domains written to %s at %s",
+            len(registered_domains),
+            registered_domains_filename,
+            registered_domains_timestamp,
+        )
 
 
 if __name__ == "__main__":

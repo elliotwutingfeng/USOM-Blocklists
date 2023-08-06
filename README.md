@@ -18,6 +18,8 @@ Malicious URLs and IP Addresses compiled by [USOM (Computer Emergency Response T
 | urls.txt | [:floppy_disk:](urls.txt?raw=true) |
 | urls_ABP.txt | [:floppy_disk:](urls_ABP.txt?raw=true) |
 | urls_UBO.txt | [:floppy_disk:](urls_UBO.txt?raw=true) |
+| urls_UBL.txt | [:floppy_disk:](urls_UBL.txt?raw=true) |
+| urls_pihole.txt | [:floppy_disk:](urls_pihole.txt?raw=true) |
 | ips.txt | [:floppy_disk:](ips.txt?raw=true) |
 
 &nbsp;
