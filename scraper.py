@@ -10,14 +10,14 @@ logger = logging.getLogger()
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 default_headers: dict = {
-    "Content-Type": "text/plain",
     "Connection": "keep-alive",
-    "Cache-Control": "no-cache",
     "Accept": "*/*",
 }
 
 
-async def backoff_delay_async(backoff_factor: float, number_of_retries_made: int) -> None:
+async def backoff_delay_async(
+    backoff_factor: float, number_of_retries_made: int
+) -> None:
     """Asynchronous time delay that exponentially increases with `number_of_retries_made`
 
     Args:
@@ -45,7 +45,9 @@ async def get_async(
     if headers is None:
         headers = default_headers
 
-    async def gather_with_concurrency(max_concurrent_requests: int, *tasks) -> dict[str, bytes]:
+    async def gather_with_concurrency(
+        max_concurrent_requests: int, *tasks
+    ) -> dict[str, bytes]:
         semaphore = asyncio.Semaphore(max_concurrent_requests)
 
         async def sem_task(task):
@@ -65,8 +67,12 @@ async def get_async(
                     return (url, await response.read())
             except Exception as error:
                 errors.append(repr(error))
-                logger.warning("%s | Attempt %d failed", error, number_of_retries_made + 1)
-                if number_of_retries_made != max_retries - 1:  # No delay if final attempt fails
+                logger.warning(
+                    "%s | Attempt %d failed", error, number_of_retries_made + 1
+                )
+                if (
+                    number_of_retries_made != max_retries - 1
+                ):  # No delay if final attempt fails
                     await backoff_delay_async(1, number_of_retries_made)
         logger.error("URL: %s GET request failed! Errors: %s", url, errors)
         return (url, b"{}")  # Allow json.loads to parse body if request fails
