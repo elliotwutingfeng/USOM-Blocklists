@@ -142,6 +142,7 @@ async def extract_urls():
                 non_ips_filename,
                 non_ips_timestamp,
             )
+
         ips_timestamp: str = current_datetime_str()
         ips_filename = "ips.txt"
         with open(ips_filename, "w") as f:
@@ -153,27 +154,27 @@ async def extract_urls():
                 ips_timestamp,
             )
 
-    fqdns_timestamp: str = current_datetime_str()
-    fqdns_filename = "urls_pihole.txt"
-    with open(fqdns_filename, "w") as f:
-        f.writelines("\n".join(sorted(fqdns)))
-        logger.info(
-            "%d FQDNs written to %s at %s",
-            len(fqdns),
-            fqdns_filename,
-            fqdns_timestamp,
-        )
+        fqdns_timestamp: str = current_datetime_str()
+        fqdns_filename = "urls_pihole.txt"
+        with open(fqdns_filename, "w") as f:
+            f.writelines("\n".join(sorted(fqdns)))
+            logger.info(
+                "%d FQDNs written to %s at %s",
+                len(fqdns),
+                fqdns_filename,
+                fqdns_timestamp,
+            )
 
-    registered_domains_timestamp: str = current_datetime_str()
-    registered_domains_filename = "urls_UBL.txt"
-    with open(registered_domains_filename, "w") as f:
-        f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
-        logger.info(
-            "%d Registered Domains written to %s at %s",
-            len(registered_domains),
-            registered_domains_filename,
-            registered_domains_timestamp,
-        )
+        registered_domains_timestamp: str = current_datetime_str()
+        registered_domains_filename = "urls_UBL.txt"
+        with open(registered_domains_filename, "w") as f:
+            f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
+            logger.info(
+                "%d Registered Domains written to %s at %s",
+                len(registered_domains),
+                registered_domains_filename,
+                registered_domains_timestamp,
+            )
 
 
 if __name__ == "__main__":
