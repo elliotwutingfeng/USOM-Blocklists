@@ -1,8 +1,8 @@
 import asyncio
+import datetime
 import ipaddress
 import logging
 import socket
-from datetime import datetime
 
 import aiohttp
 import tldextract
@@ -22,7 +22,7 @@ def current_datetime_str() -> str:
     Returns:
         str: Timestamp in strftime format "%d_%b_%Y_%H_%M_%S-UTC".
     """
-    return datetime.utcnow().strftime("%d_%b_%Y_%H_%M_%S-UTC")
+    return datetime.datetime.now(datetime.UTC).strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
 async def backoff_delay_async(
