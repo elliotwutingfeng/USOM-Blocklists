@@ -10,7 +10,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: checkout repo content
-              uses: actions/checkout@v5
+              uses: actions/checkout@v6
 
             - name: setup python
               uses: actions/setup-python@v6
