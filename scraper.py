@@ -108,12 +108,12 @@ async def extract_urls():
     fqdns: set[str] = set()
     registered_domains: set[str] = set()
     if data != b"{}":
-        urls = data.decode().split("\n")
+        urls = data.decode("utf-8").split("\n")
         for url in urls:
             url = url.strip()
             res = tldextract.extract(url)
             registered_domain, domain, fqdn = (
-                res.registered_domain,
+                res.top_domain_under_public_suffix,
                 res.domain,
                 res.fqdn,
             )
