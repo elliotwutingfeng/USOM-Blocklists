@@ -12,6 +12,6 @@
 ||<meta name="viewport" content="width=device-width, initial-scale=1" />^
 ||<script src="swagger-ui-bundle.js"></script>^
 ||<script src="usom.js"></script>^
-||<title>T.C. Siber Güvenlik Başkanlığı</title>^
+||<title>USOM API</title>^
 ||content="SwaggerIU"^
 ||name="description"^
