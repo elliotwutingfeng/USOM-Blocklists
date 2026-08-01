@@ -1,17 +1,20 @@
 [project]
 name = "usom-blocklists"
 version = "0.0.1"
-description = "Malicious URLs and IP Addresses compiled by [USOM (Computer Emergency Response Team of Turkey)](https://www.usom.gov.tr), updated once a day."
+description = "Malicious URLs and IP Addresses compiled by the Turkish [Cyber Security Directorate](https://siberguvenlik.gov.tr), formerly provided by [USOM (Computer Emergency Response Team of Turkey)](https://www.usom.gov.tr), updated once a day."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "aiofiles==25.1.0",
     "httpx==0.28.1",
     "tldextract==5.3.1",
-    "tqdm==4.70.0",
+    "tqdm==4.68.4",
 ]
 
 [dependency-groups]
 dev = [
-    "ruff==0.16.1",
+    "ruff==0.15.21",
 ]
+
+[tool.uv]
+exclude-newer = "21 days"

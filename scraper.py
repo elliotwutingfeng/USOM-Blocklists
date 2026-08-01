@@ -3,7 +3,6 @@ import datetime
 import ipaddress
 import json
 import logging
-import urllib
 
 import aiofiles
 import httpx
@@ -28,7 +27,7 @@ def current_datetime_str() -> str:
     return datetime.datetime.now(datetime.UTC).strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
-semaphore = asyncio.Semaphore(5)
+semaphore = asyncio.Semaphore(10)  # Limit concurrent requests to 10
 
 
 async def fetch_page(client, url):
@@ -38,7 +37,7 @@ async def fetch_page(client, url):
             response.raise_for_status()
             return response.json()
         except Exception as e:
-            print(f"Failed to fetch {url}: {e}")
+            logger.error(f"Failed to fetch {url}: {e}")
         return None
 
 
@@ -78,16 +77,10 @@ async def fetch_models(client: httpx.AsyncClient, endpoint: str) -> list:
 
 
 async def extract_urls():
-    endpoint = urllib.parse.urlparse("https://siberguvenlik.gov.tr/api/address/index")
-    endpoint_for_domain = urllib.parse.urlunparse(
-        endpoint._replace(query="type=domain&per-page=9999")
-    )
-    endpoint_for_ip = urllib.parse.urlunparse(
-        endpoint._replace(query="type=ip&per-page=9999")
-    )
-    endpoint_for_ip6 = urllib.parse.urlunparse(
-        endpoint._replace(query="type=ip6&per-page=9999")
-    )
+    endpoint = "https://siberguvenlik.gov.tr/api/address/index"
+    endpoint_for_domain = endpoint + "?type=domain&per-page=9999"
+    endpoint_for_ip = endpoint + "?type=ip&per-page=9999"
+    endpoint_for_ip6 = endpoint + "?type=ip6&per-page=9999"
 
     non_ips: set[str] = set()
     ips: set[str] = set()
@@ -112,73 +105,78 @@ async def extract_urls():
     # Process IP models - only add to ips set
     for model in tqdm(models_for_ip, desc="Extracting IPs"):
         url = model.get("url", "").strip()
+        if not url:
+            continue
         if url:
             ips.add(url)
 
     # Process IPv6 models - only add to ips set
     for model in tqdm(models_for_ip6, desc="Extracting IPv6s"):
         url = model.get("url", "").strip()
+        if not url:
+            continue
         if url:
             ips.add(url)
 
     if not non_ips and not ips:
         logger.error("No URLs found.")
-    else:
-        non_ips_timestamp: str = current_datetime_str()
-        non_ips_filename = "urls.txt"
-        async with aiofiles.open(non_ips_filename, "w") as f:
-            await f.write("\n".join(sorted(non_ips)))
-            logger.info(
-                "%d URLs written to %s at %s",
-                len(non_ips),
-                non_ips_filename,
-                non_ips_timestamp,
-            )
+        return
 
-        ips_timestamp: str = current_datetime_str()
-        ips_filename = "ips.txt"
-        async with aiofiles.open(ips_filename, "w") as f:
-            await f.write(
-                "\n".join(
-                    sorted(
-                        ips,
-                        key=lambda ip: (
-                            (addr := ipaddress.ip_address(ip)).version
-                            and (addr.version, int(addr))
-                        ),
-                    )
+    non_ips_timestamp: str = current_datetime_str()
+    non_ips_filename = "urls.txt"
+    async with aiofiles.open(non_ips_filename, "w") as f:
+        await f.write("\n".join(sorted(non_ips)))
+        logger.info(
+            "%d URLs written to %s at %s",
+            len(non_ips),
+            non_ips_filename,
+            non_ips_timestamp,
+        )
+
+    ips_timestamp: str = current_datetime_str()
+    ips_filename = "ips.txt"
+    async with aiofiles.open(ips_filename, "w") as f:
+        await f.write(
+            "\n".join(
+                sorted(
+                    ips,
+                    key=lambda ip: (
+                        (addr := ipaddress.ip_address(ip)).version
+                        and (addr.version, int(addr))
+                    ),
                 )
             )
-            logger.info(
-                "%d IPs written to %s at %s",
-                len(ips),
-                ips_filename,
-                ips_timestamp,
-            )
+        )
+        logger.info(
+            "%d IPs written to %s at %s",
+            len(ips),
+            ips_filename,
+            ips_timestamp,
+        )
 
-        fqdns_timestamp: str = current_datetime_str()
-        fqdns_filename = "urls_pihole.txt"
-        async with aiofiles.open(fqdns_filename, "w") as f:
-            await f.writelines("\n".join(sorted(fqdns)))
-            logger.info(
-                "%d FQDNs written to %s at %s",
-                len(fqdns),
-                fqdns_filename,
-                fqdns_timestamp,
-            )
+    fqdns_timestamp: str = current_datetime_str()
+    fqdns_filename = "urls_pihole.txt"
+    async with aiofiles.open(fqdns_filename, "w") as f:
+        await f.writelines("\n".join(sorted(fqdns)))
+        logger.info(
+            "%d FQDNs written to %s at %s",
+            len(fqdns),
+            fqdns_filename,
+            fqdns_timestamp,
+        )
 
-        registered_domains_timestamp: str = current_datetime_str()
-        registered_domains_filename = "urls_UBL.txt"
-        async with aiofiles.open(registered_domains_filename, "w") as f:
-            await f.writelines(
-                "\n".join(f"*://*.{r}/*" for r in sorted(registered_domains))
-            )
-            logger.info(
-                "%d Registered Domains written to %s at %s",
-                len(registered_domains),
-                registered_domains_filename,
-                registered_domains_timestamp,
-            )
+    registered_domains_timestamp: str = current_datetime_str()
+    registered_domains_filename = "urls_UBL.txt"
+    async with aiofiles.open(registered_domains_filename, "w") as f:
+        await f.writelines(
+            "\n".join(f"*://*.{r}/*" for r in sorted(registered_domains))
+        )
+        logger.info(
+            "%d Registered Domains written to %s at %s",
+            len(registered_domains),
+            registered_domains_filename,
+            registered_domains_timestamp,
+        )
 
 
 if __name__ == "__main__":
