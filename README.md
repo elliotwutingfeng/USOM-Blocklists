@@ -7,20 +7,20 @@
 [![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/USOM-Blocklists/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/USOM-Blocklists/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/USOM-Blocklists?label=Total%20Entries&style=for-the-badge" alt="Total Entries"/>
 
-Malicious URLs and IP Addresses compiled by [USOM (Computer Emergency Response Team of Turkey)](https://www.usom.gov.tr), updated once a day.
+Malicious URLs and IP Addresses compiled by the Turkish [Cyber Security Directorate](https://siberguvenlik.gov.tr), formerly provided by [USOM (Computer Emergency Response Team of Turkey)](https://www.usom.gov.tr), updated once a day.
 
-**Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the Computer Emergency Response Team of Turkey._
+**Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the Cyber Security Directorate or the Computer Emergency Response Team of Turkey._
 
 ## Blocklist download
 
-| File | Download |
-|:-:|:-:|
-| urls.txt | [:floppy_disk:](urls.txt?raw=true) |
-| urls_ABP.txt | [:floppy_disk:](urls_ABP.txt?raw=true) |
-| urls_UBO.txt | [:floppy_disk:](urls_UBO.txt?raw=true) |
-| urls_UBL.txt | [:floppy_disk:](urls_UBL.txt?raw=true) |
+|      File       |                 Download                  |
+| :-------------: | :---------------------------------------: |
+|    urls.txt     |    [:floppy_disk:](urls.txt?raw=true)     |
+|  urls_ABP.txt   |  [:floppy_disk:](urls_ABP.txt?raw=true)   |
+|  urls_UBO.txt   |  [:floppy_disk:](urls_UBO.txt?raw=true)   |
+|  urls_UBL.txt   |  [:floppy_disk:](urls_UBL.txt?raw=true)   |
 | urls_pihole.txt | [:floppy_disk:](urls_pihole.txt?raw=true) |
-| ips.txt | [:floppy_disk:](ips.txt?raw=true) |
+|     ips.txt     |     [:floppy_disk:](ips.txt?raw=true)     |
 
 &nbsp;
 

@@ -1,11 +1,14 @@
 import asyncio
 import datetime
 import ipaddress
+import json
 import logging
-import socket
+import urllib
 
-import aiohttp
+import aiofiles
+import httpx
 import tldextract
+from tqdm import tqdm
 
 logger = logging.getLogger()
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -25,117 +28,106 @@ def current_datetime_str() -> str:
     return datetime.datetime.now(datetime.UTC).strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
-async def backoff_delay_async(
-    backoff_factor: float, number_of_retries_made: int
-) -> None:
-    """Asynchronous time delay that exponentially increases with `number_of_retries_made`
+semaphore = asyncio.Semaphore(5)
+
+
+async def fetch_page(client, url):
+    async with semaphore:
+        try:
+            response = await client.get(url, timeout=300)
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            print(f"Failed to fetch {url}: {e}")
+        return None
+
+
+async def fetch_models(client: httpx.AsyncClient, endpoint: str) -> list:
+    """Fetch all models from a paginated endpoint.
 
     Args:
-        backoff_factor (float): Backoff delay multiplier
-        number_of_retries_made (int): More retries made -> Longer backoff delay
-    """
-    await asyncio.sleep(backoff_factor * (2 ** (number_of_retries_made - 1)))
-
-
-async def get_async(
-    endpoints: list[str], max_concurrent_requests: int = 5, headers: dict | None = None
-) -> dict[str, bytes]:
-    """Given a list of HTTP endpoints, make HTTP GET requests asynchronously
-
-    Args:
-        endpoints (list[str]): List of HTTP GET request endpoints
-        max_concurrent_requests (int, optional): Maximum number of concurrent async HTTP requests.
-        Defaults to 5.
-        headers (dict, optional): HTTP Headers to send with every request. Defaults to None.
+        client: AsyncClient instance for making requests
+        endpoint: API endpoint URL
 
     Returns:
-        dict[str,bytes]: Mapping of HTTP GET request endpoint to its HTTP response content. If
-        the GET request failed, its HTTP response content will be `b"{}"`
+        list: All models from all pages
     """
-    if headers is None:
-        headers = default_headers
+    # Fetch first page to get total page count
+    response = await client.get(endpoint + "&page=0", timeout=300)
+    page_data = json.loads(response.content)
 
-    async def gather_with_concurrency(
-        max_concurrent_requests: int, *tasks
-    ) -> dict[str, bytes]:
-        semaphore = asyncio.Semaphore(max_concurrent_requests)
+    if not isinstance(page_count := page_data.get("pageCount"), int):
+        return page_data.get("models", [])
 
-        async def sem_task(task):
-            async with semaphore:
-                await asyncio.sleep(0.5)
-                return await task
+    models = page_data.get("models", [])
 
-        tasklist = [sem_task(task) for task in tasks]
-        return dict([await f for f in asyncio.as_completed(tasklist)])
+    # Concurrently fetch remaining pages
+    if page_count > 1:
+        tasks = [
+            fetch_page(client, endpoint + f"&page={page}")
+            for page in range(1, page_count + 1)
+        ]
+        for page_data in await asyncio.gather(*tasks):
+            if page_data is None:
+                continue
 
-    async def get(url, session):
-        max_retries: int = 8
-        errors: list[str] = []
-        for number_of_retries_made in range(max_retries):
-            try:
-                async with session.get(url, headers=headers) as response:
-                    return (url, await response.read())
-            except Exception as error:
-                errors.append(repr(error))
-                logger.warning(
-                    "%s | Attempt %d failed", error, number_of_retries_made + 1
-                )
-                if (
-                    number_of_retries_made != max_retries - 1
-                ):  # No delay if final attempt fails
-                    await backoff_delay_async(1, number_of_retries_made)
-        logger.error("URL: %s GET request failed! Errors: %s", url, errors)
-        return (url, b"{}")  # Allow json.loads to parse body if request fails
+            if isinstance(page_models := page_data.get("models"), list):
+                models.extend(page_models)
 
-    # GET request timeout of 15 seconds
-    async with aiohttp.ClientSession(
-        connector=aiohttp.TCPConnector(limit=0, ttl_dns_cache=15),
-        raise_for_status=True,
-        timeout=aiohttp.ClientTimeout(total=15),
-    ) as session:
-        # Only one instance of any duplicate endpoint will be used
-        return await gather_with_concurrency(
-            max_concurrent_requests, *[get(url, session) for url in set(endpoints)]
-        )
+    return models
 
 
 async def extract_urls():
-    endpoint = "https://www.usom.gov.tr/url-list.txt"
+    endpoint = urllib.parse.urlparse("https://siberguvenlik.gov.tr/api/address/index")
+    endpoint_for_domain = urllib.parse.urlunparse(
+        endpoint._replace(query="type=domain&per-page=9999")
+    )
+    endpoint_for_ip = urllib.parse.urlunparse(
+        endpoint._replace(query="type=ip&per-page=9999")
+    )
+    endpoint_for_ip6 = urllib.parse.urlunparse(
+        endpoint._replace(query="type=ip6&per-page=9999")
+    )
 
-    data = (await get_async([endpoint]))[endpoint]
     non_ips: set[str] = set()
     ips: set[str] = set()
     fqdns: set[str] = set()
     registered_domains: set[str] = set()
-    if data != b"{}":
-        urls = data.decode("utf-8").split("\n")
-        for url in urls:
-            url = url.strip()
-            res = tldextract.extract(url)
-            registered_domain, domain, fqdn = (
-                res.top_domain_under_public_suffix,
-                res.domain,
-                res.fqdn,
-            )
-            if domain and not fqdn:
-                # Possible IPv4 Address
-                try:
-                    socket.inet_pton(socket.AF_INET, domain)
-                    ips.add(domain)
-                except socket.error:
-                    if url:
-                        non_ips.add(url)
-            elif fqdn:
-                non_ips.add(url)
-                fqdns.add(fqdn)
-                registered_domains.add(registered_domain)
+
+    async with httpx.AsyncClient(headers=default_headers) as client:
+        models_for_domain = await fetch_models(client, endpoint_for_domain)
+        models_for_ip = await fetch_models(client, endpoint_for_ip)
+        models_for_ip6 = await fetch_models(client, endpoint_for_ip6)
+
+    # Process domain models - extract URLs, FQDNs, and registered domains
+    for model in tqdm(models_for_domain, desc="Extracting URLs"):
+        url = model.get("url", "").strip()
+        if not url:
+            continue
+        res = tldextract.extract(url)
+        non_ips.add(url)
+        fqdns.add(res.fqdn)
+        registered_domains.add(res.top_domain_under_public_suffix)
+
+    # Process IP models - only add to ips set
+    for model in tqdm(models_for_ip, desc="Extracting IPs"):
+        url = model.get("url", "").strip()
+        if url:
+            ips.add(url)
+
+    # Process IPv6 models - only add to ips set
+    for model in tqdm(models_for_ip6, desc="Extracting IPv6s"):
+        url = model.get("url", "").strip()
+        if url:
+            ips.add(url)
+
     if not non_ips and not ips:
         logger.error("No URLs found.")
     else:
         non_ips_timestamp: str = current_datetime_str()
         non_ips_filename = "urls.txt"
-        with open(non_ips_filename, "w") as f:
-            f.write("\n".join(sorted(non_ips)))
+        async with aiofiles.open(non_ips_filename, "w") as f:
+            await f.write("\n".join(sorted(non_ips)))
             logger.info(
                 "%d URLs written to %s at %s",
                 len(non_ips),
@@ -145,8 +137,18 @@ async def extract_urls():
 
         ips_timestamp: str = current_datetime_str()
         ips_filename = "ips.txt"
-        with open(ips_filename, "w") as f:
-            f.write("\n".join(sorted(ips, key=ipaddress.IPv4Address)))
+        async with aiofiles.open(ips_filename, "w") as f:
+            await f.write(
+                "\n".join(
+                    sorted(
+                        ips,
+                        key=lambda ip: (
+                            (addr := ipaddress.ip_address(ip)).version
+                            and (addr.version, int(addr))
+                        ),
+                    )
+                )
+            )
             logger.info(
                 "%d IPs written to %s at %s",
                 len(ips),
@@ -156,8 +158,8 @@ async def extract_urls():
 
         fqdns_timestamp: str = current_datetime_str()
         fqdns_filename = "urls_pihole.txt"
-        with open(fqdns_filename, "w") as f:
-            f.writelines("\n".join(sorted(fqdns)))
+        async with aiofiles.open(fqdns_filename, "w") as f:
+            await f.writelines("\n".join(sorted(fqdns)))
             logger.info(
                 "%d FQDNs written to %s at %s",
                 len(fqdns),
@@ -167,8 +169,10 @@ async def extract_urls():
 
         registered_domains_timestamp: str = current_datetime_str()
         registered_domains_filename = "urls_UBL.txt"
-        with open(registered_domains_filename, "w") as f:
-            f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
+        async with aiofiles.open(registered_domains_filename, "w") as f:
+            await f.writelines(
+                "\n".join(f"*://*.{r}/*" for r in sorted(registered_domains))
+            )
             logger.info(
                 "%d Registered Domains written to %s at %s",
                 len(registered_domains),
