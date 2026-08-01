@@ -237,11 +237,11 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "aiofiles", specifier = ">=25.1.0" },
+    { name = "aiofiles", specifier = "==25.1.0" },
     { name = "httpx", specifier = "==0.28.1" },
     { name = "tldextract", specifier = "==5.3.1" },
-    { name = "tqdm", specifier = ">=4.70.0" },
+    { name = "tqdm", specifier = "==4.70.0" },
 ]
 
 [package.metadata.requires-dev]
-dev = [{ name = "ruff", specifier = ">=0.16.1" }]
+dev = [{ name = "ruff", specifier = "==0.16.1" }]
