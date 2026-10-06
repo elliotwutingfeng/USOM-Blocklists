@@ -3296,6 +3296,7 @@
 ||103vqvm43v52a8o.ddns.net^$all
 ||104-168-237-21.sslip.io^$all
 ||104-248-245-30.plesk.page^$all
+||10429129512.duckdns.org^$all
 ||1049898235.corolain.ru^$all
 ||104blockchain.ml^$all
 ||105005644564955846105.duckdns.org^$all
@@ -10389,6 +10390,7 @@
 ||26112024181916-1628sahibinden.com^$all
 ||2612952.cloud^$all
 ||2616160175.cloud^$all
+||2616766158.cloud^$all
 ||261952.cloud^$all
 ||261c612f57.hopto.org^$all
 ||26222654526852.cloud^$all
@@ -12353,6 +12355,7 @@
 ||341321756.online^$all
 ||3415254462.cloud^$all
 ||341911061.goloser.ru^$all
+||341957735.cloud^$all
 ||341c4324zs.duckdns.org^$all
 ||342132135353.duckdns.org^$all
 ||342154736.corolain.ru^$all
@@ -16079,6 +16082,7 @@
 ||53716838261811719172628.fun^$all
 ||5378se.duckdns.org^$all
 ||537xnk82k.duckdns.org^$all
+||5384328.sbs^$all
 ||538u.helpdesk-eofficemanager.com^$all
 ||53910598013590.com^$all
 ||5395dg0j4h79n.life^$all
@@ -26330,6 +26334,7 @@
 ||a101sonindirim-saatleri.online^$all
 ||a101sonsaate-ozel.online^$all
 ||a101sponsorlu-g.net.tr^$all
+||a101stanleyfirsatlaraktifekimayinda.duckdns.org^$all
 ||a101stenleytermoskampanyasi.site^$all
 ||a101subataozel.online^$all
 ||a101subatfirsat.com^$all
@@ -39282,6 +39287,7 @@
 ||akbanktr.info^$all
 ||akbanktr.net^$all
 ||akbankturk.com^$all
+||akbankumre.org^$all
 ||akbankventures.net^$all
 ||akbankvirtual.com^$all
 ||akbankweb.com^$all
@@ -50007,6 +50013,7 @@
 ||arabacekilisibasladi.net^$all
 ||arabacekilisim.com^$all
 ||arabacekilisim.info^$all
+||arabacekilisim.link^$all
 ||arabacekilisim.online^$all
 ||arabacekilisin.online^$all
 ||arabacekilisinehemenkatil.website^$all
@@ -50177,6 +50184,7 @@
 ||arac--muayturk.online^$all
 ||arac-2txtxc-muaynem-trvtudktr.net^$all
 ||arac-bakiye.lol^$all
+||arac-detay-bakiyelerin.lol^$all
 ||arac-dolum.xyz^$all
 ||arac-dolum2.xyz^$all
 ||arac-dolum3.xyz^$all
@@ -50211,6 +50219,7 @@
 ||arac-muayene-randevu.net^$all
 ||arac-muayene-randevusu.com^$all
 ||arac-muayene.com^$all
+||arac-muayenehersey.com^$all
 ||arac-muayenekaliteli.net^$all
 ||arac-muayenemm.net^$all
 ||arac-muayenesi.com^$all
@@ -50745,6 +50754,7 @@
 ||aracmuayanehizmeti.com^$all
 ||aracmuayaneniz.com^$all
 ||aracmuayanerandevu.com^$all
+||aracmuayanerandevu.xyz^$all
 ||aracmuayanerandevum.com^$all
 ||aracmuayanerandevum.xyz^$all
 ||aracmuayanerandevunuz.site^$all
@@ -52921,6 +52931,7 @@
 ||ascribeleniency.top^$all
 ||ascribemandatory.top^$all
 ||ascribethreshold.top^$all
+||ascsadv.duckdns.org^$all
 ||ascsassscaxc21.carrd.co^$all
 ||ascscascascasc.weddings2remember.com.au^$all
 ||asd-ads.shop^$all
@@ -53145,6 +53156,7 @@
 ||asdfdsafas.duckdns.org^$all
 ||asdfewfgds.store^$all
 ||asdfewfgdss.store^$all
+||asdffdsdfs.duckdns.org^$all
 ||asdfgh.ddns.net^$all
 ||asdfghdsajkl.com^$all
 ||asdfghertyhgfdsabnmvcxzdefrtgdshygvbfdswewq.cloud^$all
@@ -53323,6 +53335,7 @@
 ||asdsadasdas.net^$all
 ||asdsadasdashoemansd.com^$all
 ||asdsadasdquez.net^$all
+||asdsadd2121d.duckdns.org^$all
 ||asdsadkasjdsfjksdnakdsbimcellkampanya.net^$all
 ||asdsadq.duckdns.org^$all
 ||asdsadsadaslewester.blogspot.com^$all
@@ -53485,6 +53498,7 @@
 ||asfawdfsksqx.com^$all
 ||asfd45.ddns.net^$all
 ||asfdafsdasdfasdfasdfsadfdfas.nl^$all
+||asfdcsadfvds.duckdns.org^$all
 ||asfdiadsifadifiafiaf.cfd^$all
 ||asfdjymcsz.duckdns.org^$all
 ||asfdkhjasds.net^$all
@@ -56988,6 +57002,7 @@
 ||avsfiloarackiralama.com^$all
 ||avsfilobayi.com^$all
 ||avsfilocar.org^$all
+||avsfilokiiralama.com^$all
 ||avsfilokirala.net^$all
 ||avsfilokiralama.com^$all
 ||avsfilokiralamaa.com^$all
@@ -60852,6 +60867,7 @@
 ||banajmibjdko.club^$all
 ||banakimbakmis.tk^$all
 ||banakimsegelemez.com^$all
+||banakitlenmeseftali.duckdns.org^$all
 ||banami.2kool4u.net^$all
 ||banamiozel.duckdns.org^$all
 ||banamutlulukyakisir.xyz^$all
@@ -68010,6 +68026,7 @@
 ||bedavapanel2026.cyou^$all
 ||bedavapanel4.site^$all
 ||bedavapanelariyorum.world^$all
+||bedavapanelhizmetleri.website^$all
 ||bedavapanelimizyeniden.gt.tc^$all
 ||bedavasorgu.com^$all
 ||bedavasorgu.org^$all
@@ -68543,7 +68560,9 @@
 ||belsis.buzz^$all
 ||belsis.click^$all
 ||belsis.ink^$all
+||belsis.lol^$all
 ||belsis.online^$all
+||belsis.sbs^$all
 ||belsis.site^$all
 ||belsis.store^$all
 ||belsis.xyz^$all
@@ -79998,6 +80017,7 @@
 ||bizgetiriyoruzsizlerekolayca.com^$all
 ||bizgunleregelmedikacele.com^$all
 ||bizhaziriz.online^$all
+||bizherzamanaktifizkral.com^$all
 ||bizhgsci.is-best.net^$all
 ||bizhuan.sc2yun.com^$all
 ||bizi-dene-daha-cok-iyisini-gorursun.com^$all
@@ -80203,6 +80223,7 @@
 ||bizleraidaticerigindeyiz.com^$all
 ||bizlerburada.xyz^$all
 ||bizlerde-gorunmeden-sevilen-sevgiler-kadar.com^$all
+||bizlerdeburalardayizherzaman.sbs^$all
 ||bizlerdehepiyigelirizsize.com^$all
 ||bizlerden-super-sahane-zamanlara-gecisiriz.com^$all
 ||bizlerdengordunuz.shop^$all
@@ -84761,6 +84782,7 @@
 ||bnd-destektr.com^$all
 ||bnd3m.is-best.net^$all
 ||bndagitimbasvurusu.com^$all
+||bndanbrayabksan.duckdns.org^$all
 ||bndanypmkgerkse.mooo.com^$all
 ||bndbrj.top^$all
 ||bndce2-ssea1.space^$all
@@ -92612,6 +92634,7 @@
 ||bursakartim.net^$all
 ||bursakartyuklemee-e1.tk^$all
 ||bursakbufrstlardanfaydalanirsin.shop^$all
+||bursakozkasap.online^$all
 ||bursalunex.com^$all
 ||bursanextkrt.net^$all
 ||bursaresmibmcell.com^$all
@@ -96480,6 +96503,7 @@
 ||capsltop3.pw^$all
 ||capsnit.com^$all
 ||capsup.buzz^$all
+||capsysnet.vg^$all
 ||captain1.zapto.org^$all
 ||captainduce.top^$all
 ||captainislem.22web.org^$all
@@ -99854,6 +99878,7 @@
 ||cepdeteb.my-homeip.net^$all
 ||cepdetebb.com^$all
 ||cepdetebmobil.com^$all
+||cepdetep-com-tr.my-homeip.de^$all
 ||cepdeyapikredi.com^$all
 ||cepdeyiz.cfd^$all
 ||cepdeziraat.com^$all
@@ -100157,6 +100182,7 @@
 ||cepte-ekstra.org.tr^$all
 ||cepte-esube.my-homeip.net^$all
 ||cepte-extra-mobilde-tr.click^$all
+||cepte-eylul.com.tr^$all
 ||cepte-eylul.info.tr^$all
 ||cepte-eylul.net.tr^$all
 ||cepte-eylulsok.com.tr^$all
@@ -103228,6 +103254,7 @@
 ||cilginkmpny.duckdns.org^$all
 ||cilginperi.host^$all
 ||cilginrtelfoncu3351.com^$all
+||ciliabula.cc^$all
 ||cilittdise.com^$all
 ||cilmwgll.duckdns.org^$all
 ||cilomum.com^$all
@@ -103862,6 +103889,7 @@
 ||cirond.com^$all
 ||ciroxn-59090.portmap.host^$all
 ||cirque-spb.com^$all
+||cirrushare.co^$all
 ||cirt-gov-bd.org-liv.net^$all
 ||cirugiaabc14.ddns.net^$all
 ||cirugiaurologica.com^$all
@@ -105380,6 +105408,7 @@
 ||cloudstatistics.net^$all
 ||cloudstats112192.space^$all
 ||cloudstore.cam^$all
+||cloudsyncpulse.com^$all
 ||cloudsystemchat.com^$all
 ||cloudtesting.ddns.net^$all
 ||cloudtesting1.ddns.net^$all
@@ -109894,6 +109923,7 @@
 ||consciousmindz.art^$all
 ||consciousnesscrate.top^$all
 ||consciousperpetuate.top^$all
+||consectetur-in-enim.top^$all
 ||consecutivedwarf.top^$all
 ||conselorelaboately.top^$all
 ||consensusintrinsic.top^$all
@@ -114862,6 +114892,7 @@
 ||cvcfdsadv-vvdvtytt.org^$all
 ||cvch5h5jcg8a5m2e1q2gmggqqweqjzot7.it.h4.vc^$all
 ||cvcsvd2cc.cloud^$all
+||cvcvdfc3143.click^$all
 ||cvcws.ponethus.com^$all
 ||cvd-evde-eaidat.com^$all
 ||cvd19-aidatmerkezi.com^$all
@@ -115060,6 +115091,7 @@
 ||cxmarcellsat.top^$all
 ||cxmartresimrkt32.com^$all
 ||cxmbcvjbdfjbjdf.cyou^$all
+||cxmcnmxcmn.com^$all
 ||cxmdektgnpdhbers.xyz^$all
 ||cxmhjbpyiwhgwjcow.com^$all
 ||cxmka2c-2asponsor-11dan.cloud^$all
@@ -129609,6 +129641,7 @@
 ||direkten.cf^$all
 ||direktfirsatlar.com.tr^$all
 ||direktgiris-akbank.com^$all
+||direktif.best^$all
 ||direktinternetsube.click^$all
 ||direktinternetsube.ru.com^$all
 ||direktinternetsube.sa.com^$all
@@ -132292,6 +132325,7 @@
 ||domancikk.space^$all
 ||domand.altincopps.com^$all
 ||domani.grol.ru^$all
+||domannawlmyrmrr.duckdns.org^$all
 ||domarkartaon.org^$all
 ||domasbloggs436.xyz^$all
 ||domates.sbs^$all
@@ -132826,6 +132860,7 @@
 ||dosyagoruntuleme.org^$all
 ||dosyagov.org^$all
 ||dosyahakkindabilgi.com^$all
+||dosyahazine.com^$all
 ||dosyahmb.net^$all
 ||dosyahmb.org^$all
 ||dosyahukuk.com^$all
@@ -133685,6 +133720,7 @@
 ||driftlance.org^$all
 ||driftlucrative.top^$all
 ||driftory.my^$all
+||driftshare.co^$all
 ||drifttactic.top^$all
 ||driftwoodluxe.com^$all
 ||drila.click^$all
@@ -142723,7 +142759,6 @@
 ||ebebebebek.xyz^$all
 ||ebebek-store.ir^$all
 ||ebebek.hediyegunleri.xyz^$all
-||ebebek.nivo.com.tr^$all
 ||ebebekbasvuru.site^$all
 ||ebebekci.com^$all
 ||ebebekdaindrm.net^$all
@@ -147215,6 +147250,7 @@
 ||efesfinans.online^$all
 ||efesgrtbq.ice.fo^$all
 ||efeskenwez.net^$all
+||efesko.online^$all
 ||efesogar.fixip.org^$all
 ||efesoskr.bot.cd^$all
 ||efesotomotiv.com^$all
@@ -148029,6 +148065,7 @@
 ||egndezs.duckdns.org^$all
 ||egngov.biz.id^$all
 ||egngov.my.id^$all
+||egngovrn.web.id^$all
 ||egnngov.biz.id^$all
 ||egnngov.my.id^$all
 ||egnngovern.biz.id^$all
@@ -149043,6 +149080,7 @@
 ||ekampanyayilbasi-deniz-basvur-online.tk^$all
 ||ekampya-bireysel-basvur-com.ml^$all
 ||ekamu-turkiyegovtri.com^$all
+||ekamu.org^$all
 ||ekamubilisim.com^$all
 ||ekamubirimi.com^$all
 ||ekamucbs.com^$all
@@ -149277,6 +149315,7 @@
 ||ekimfirsatleranolympus.net^$all
 ||ekimflrsatlari.com^$all
 ||ekimflrsatlari.store^$all
+||ekimflrsatlariburada.com^$all
 ||ekimflrsatlariburdakiwsynxmolpet.sbs^$all
 ||ekimflrsatlarikacmazwsynx.com^$all
 ||ekimflrsatlarikacmiyo.com^$all
@@ -153733,6 +153772,7 @@
 ||enparam2019.com^$all
 ||enparamcebimde.com^$all
 ||enparamcekilis.com^$all
+||enparamcekilis.ph^$all
 ||enparamcekilisleri.com^$all
 ||enparamemnuniyetiniz.ml^$all
 ||enparamemnuniyetiniz.tk^$all
@@ -159115,6 +159155,7 @@
 ||evimgroup.tech^$all
 ||evimguzelevim.online^$all
 ||evimhazir.click^$all
+||evimhemen.net^$all
 ||evimicin.cfd^$all
 ||evimicin.click^$all
 ||evimilkbasvuru.com^$all
@@ -159872,6 +159913,7 @@
 ||evrenkrepal.net^$all
 ||evrensel.name.tr^$all
 ||evrenselamcanm.duckdns.org^$all
+||evrensorgupaneli.online^$all
 ||evrenyardimerkezi.tech^$all
 ||evrenyum.site^$all
 ||evreuxsas.live^$all
@@ -164054,6 +164096,7 @@
 ||fdrmdtkphx.duckdns.org^$all
 ||fds324sdasd.cloud^$all
 ||fds543543tgfds435rtegdfsds43254terfdssa43543tgfdf2.com^$all
+||fdsafasdcadf.duckdns.org^$all
 ||fdsasda.ddns.net^$all
 ||fdsb.telemetry.geostatcdn.com^$all
 ||fdsdmj.top^$all
@@ -165746,6 +165789,7 @@
 ||filestoragehub.live^$all
 ||filestudios.net^$all
 ||filesview.ddns.net^$all
+||fileswiftonline.cloud^$all
 ||filesxsharex.ddns.net^$all
 ||filetix.com^$all
 ||filetosend-upload.net^$all
@@ -167564,6 +167608,7 @@
 ||firsatdunyasinahosgeldin.com^$all
 ||firsatdunyasinahosgelinn.com^$all
 ||firsatdunyasindasin.blogspot.com^$all
+||firsatdunyasionline.duckdns.org^$all
 ||firsatdunyasiteb.duckdns.org^$all
 ||firsatdunyasivkkatilim.com^$all
 ||firsatduyurulari.com^$all
@@ -170585,6 +170630,7 @@
 ||flydown.hopto.org^$all
 ||flydubaicareers.ae.org^$all
 ||flyermobi.com^$all
+||flygtrmcs.com^$all
 ||flyhgsz.com^$all
 ||flying-defog.ink^$all
 ||flyinglife.online^$all
@@ -172258,6 +172304,7 @@
 ||freerobux987.duckdns.org^$all
 ||freeruruq9aiojagj.ddns.net^$all
 ||freesalas.duckdns.org^$all
+||freesas.info^$all
 ||freescanonline.com^$all
 ||freeseathere.com^$all
 ||freeshop.cam^$all
@@ -172784,6 +172831,7 @@
 ||frstlarrkmpnyassiibsvrremeklii.art^$all
 ||frstlarrkmpnyassiibsvrremeklii.click^$all
 ||frstlarrmerkziiprmsynnbsvrr.art^$all
+||frstlarrprmsnykmpnya193219.pro^$all
 ||frstlarrrkmpnyabprmsynnbsvr.info^$all
 ||frstlarrrkmpnyabprmsynnbsvr.live^$all
 ||frstlarrrkmpnyabprmsynnbsvr.pro^$all
@@ -185086,6 +185134,7 @@
 ||globalfile-link-all-easy.com^$all
 ||globalfileshareeveryfun.com^$all
 ||globalfileshareeveryfun24.com^$all
+||globalfileshareplatform.com^$all
 ||globalfinancehub.world^$all
 ||globalfinans.top^$all
 ||globalfirsat-ozelkampanya.com^$all
@@ -185686,6 +185735,7 @@
 ||goalstreamev.pro^$all
 ||goanalytics.xyz^$all
 ||goankara.net^$all
+||goaowet.tools^$all
 ||goasoftwarecompany.com^$all
 ||goatcr7.duckdns.org^$all
 ||goated.ddns.net^$all
@@ -186821,6 +186871,7 @@
 ||goservicewrap.com^$all
 ||goshaw.milanopitza.cfd^$all
 ||goshoppage.com^$all
+||goshshare.online^$all
 ||gosktmtmo.net^$all
 ||gosmax.online^$all
 ||gosokm.com^$all
@@ -187972,6 +188023,7 @@
 ||gratis.obliqueprism.com^$all
 ||gratis.optosupply.com^$all
 ||gratis.paperbacksins.com^$all
+||gratis.ploteando.com^$all
 ||gratis.quenumerosalio.com^$all
 ||gratis.rataforo.com^$all
 ||gratis.selfip.com^$all
@@ -195983,6 +196035,7 @@
 ||hakernjrat13.zapto.org^$all
 ||hakerz123.ddns.net^$all
 ||hakettiklerimiyasarim.com^$all
+||hakhaaa.tools^$all
 ||hakiadelerimizdevlett.cf^$all
 ||hakiimdakisilkaayetlerigor.cf^$all
 ||hakiimdakisilkaayetlerigor.ga^$all
@@ -198599,6 +198652,7 @@
 ||halkoffshore.com^$all
 ||halkoim.com^$all
 ||halkoindirimle.net^$all
+||halkolanmalko.club^$all
 ||halkonay.sbs^$all
 ||halkonay.tech^$all
 ||halkonaysistemi.online^$all
@@ -200026,6 +200080,7 @@
 ||harcayaharcayaviteyenidnirimler.cfd^$all
 ||harcayarak-kazan.cfd^$all
 ||harcayarakbitmezz-kargobedava.online^$all
+||harcbilgilendirme.com^$all
 ||harccxxharcxxbittmmez.com^$all
 ||harci.online^$all
 ||harclarinteraktifodeme.net^$all
@@ -201885,6 +201940,7 @@
 ||hazinetrtcbm72.ga^$all
 ||hazinetrukgirisdev.com^$all
 ||hazinettgovuk.com^$all
+||hazineuzlasma.com^$all
 ||hazinevemaliye.com^$all
 ||hazinevemaliye.net^$all
 ||hazinevemaliye.org^$all
@@ -204692,6 +204748,8 @@
 ||hemenfirsatlarhizlicsatinalmalsin.online^$all
 ||hemenfirsatlarhizlicsatinalmalsin.xyz^$all
 ||hemenfirsatlarikacirmadangelmelisin.duckdns.org^$all
+||hemenfirsatlarikacirmadanhizlicadavran.info^$all
+||hemenfirsatlarikacirmadanhizlicadavran.site^$all
 ||hemenfirsatlarikacirmadansatinalmalisin.com.tr^$all
 ||hemenfirsatlarmarketimde.com.tr^$all
 ||hemenfirsatlarmarketimde.online^$all
@@ -206140,6 +206198,8 @@
 ||heristomuk.hopto.org^$all
 ||heritageflair.com^$all
 ||heritagepreside.top^$all
+||heritiage.org^$all
+||heritiages.org^$all
 ||heritox.com^$all
 ||herjzyorr.net^$all
 ||herkbilisimbirlik.com^$all
@@ -206150,6 +206210,7 @@
 ||herkes-edevlet-yardim-tr-gov.ml^$all
 ||herkes-kullanabilsindiye.sbs^$all
 ||herkes-mutlu-olmayi-hak-eder.com^$all
+||herkesalsindiyeburada.sbs^$all
 ||herkesbeklyorkanao0osndas28285268956.click^$all
 ||herkesbizmleonlne.sbs^$all
 ||herkesbulusuyor.click^$all
@@ -210372,6 +210433,7 @@
 ||hhh594234fsa12safd.sbs^$all
 ||hhh6566555.duckdns.org^$all
 ||hhhaaa.zapto.org^$all
+||hhhasstne.duckdns.org^$all
 ||hhhazinemaliyebak1.com^$all
 ||hhhazinemaliyebak2.com^$all
 ||hhhdyfnnnytw.xyz^$all
@@ -211086,6 +211148,7 @@
 ||hiziyla-tedarik.com^$all
 ||hiziyla-ticaret.com^$all
 ||hizkaskom.store^$all
+||hizl-gecisekt-yklebakieac.web.app^$all
 ||hizl-gecisleriniz-kolay.web.app^$all
 ||hizl-i-pak-ed-1.blogspot.com^$all
 ||hizl-i-pak-ed1.blogspot.com^$all
@@ -214470,6 +214533,7 @@
 ||hmnislmeonktar.net^$all
 ||hmnislmeonktasr.net^$all
 ||hmnislmknat.net^$all
+||hmnislmkntaos.net^$all
 ||hmnislmkntlasi.net^$all
 ||hmnislmnkatnas.net^$all
 ||hmnislmnkns.net^$all
@@ -226092,6 +226156,7 @@
 ||in-a-cuzdan.my-homeip.com^$all
 ||in-basvuru-portal.online^$all
 ||in-dirimgunleribasladi.com^$all
+||in-fomenkuldegerler.com^$all
 ||in-grn-b-v-tra.my-homeip.com^$all
 ||in-icloud-findmy.com^$all
 ||in-kamp-sayfa.click^$all
@@ -236024,6 +236089,7 @@
 ||istanbulbalim.net^$all
 ||istanbulbasvuru.lol^$all
 ||istanbulbasvuru.xyz^$all
+||istanbulbasvurubelgimkart.xyz^$all
 ||istanbulbasvurukart.lol^$all
 ||istanbulbasvurukart.xyz^$all
 ||istanbulbasvuruyap.shop^$all
@@ -243578,6 +243644,7 @@
 ||jewsondirect.com^$all
 ||jewstew.hopto.org^$all
 ||jewsv6.duckdns.org^$all
+||jexal.blog^$all
 ||jexaltra.store^$all
 ||jexanurbz.com^$all
 ||jexomiravultenkazop.cfd^$all
@@ -249727,6 +249794,7 @@
 ||kampanyaonline.online^$all
 ||kampanyaonlinebudget.com^$all
 ||kampanyaonlinegelal.online^$all
+||kampanyaonlineozel.duckdns.org^$all
 ||kampanyaop.vercel.app^$all
 ||kampanyaorthuesdaynewdayyorsnapir.net^$all
 ||kampanyaozel.online^$all
@@ -256875,6 +256943,9 @@
 ||kilometresorguacimaz.cfd^$all
 ||kilometresorguacimaz.web.app^$all
 ||kilometresorgubayiltan.cfd^$all
+||kilometresorgubayinz.web.app^$all
+||kilometresorgucu.web.app^$all
+||kilometresorgucubayinz.web.app^$all
 ||kilometresorgucunuz.web.app^$all
 ||kilometresorgucunuzs.web.app^$all
 ||kilometresorgudomaltan.cfd^$all
@@ -259509,6 +259580,7 @@
 ||kmpnyabasvurckls.live^$all
 ||kmpnyabasvurckls.pro^$all
 ||kmpnyabasvurckls.site^$all
+||kmpnyabasvurrrprmsyn1786985.info^$all
 ||kmpnyabasvurrrprmsyn1786985.pro^$all
 ||kmpnyabasvursssprmsynn.art^$all
 ||kmpnyabasvursssprmsynn.info^$all
@@ -262522,6 +262594,7 @@
 ||kreadivstudios.com^$all
 ||krealbimcell.xyz^$all
 ||kreatif-destek.com^$all
+||kreatifajans.online^$all
 ||kreatingcslosina.net^$all
 ||kreautopagne.de^$all
 ||krebashem.pw^$all
@@ -265769,6 +265842,7 @@
 ||kvyt-technologiesappcampaignway.net^$all
 ||kvyt-turk-firsat.global.ssl.fastly.net^$all
 ||kvyt13yil.com^$all
+||kvyt890909244.duckdns.org^$all
 ||kvytbasvurumday.com^$all
 ||kvytbasvurumonlineonline.net^$all
 ||kvytbasvurumonlines.net^$all
@@ -274273,6 +274347,7 @@
 ||m-qnpsubeonline.com^$all
 ||m-ramazanfirsatlari.com^$all
 ||m-rhs1-82rvdnbrdn.org^$all
+||m-rndvual.com^$all
 ||m-sahibinden-guvenliodemes.com^$all
 ||m-sahibinden.com^$all
 ||m-sahibinden.com.tr^$all
@@ -278155,6 +278230,7 @@
 ||marketindeindirimivar.sbs^$all
 ||marketindirim.click^$all
 ||marketindirimgunleri.xyz^$all
+||marketindirimkacmaz.duckdns.org^$all
 ||marketindirimkataloglari.cfd^$all
 ||marketindirimlerfirsatisbs.com^$all
 ||marketindirimlerisizinle.duckdns.org^$all
@@ -278256,6 +278332,7 @@
 ||marketo.vu^$all
 ||marketonline.gtxapixo.ru.com^$all
 ||marketonlinea.com^$all
+||marketonlinealisveris.duckdns.org^$all
 ||marketonlinec.com^$all
 ||marketonlinefirsatlari.com.tr^$all
 ||marketonlinep.com^$all
@@ -281283,6 +281360,7 @@
 ||meleikimsas.xyz^$all
 ||melek.life^$all
 ||melek.one^$all
+||melekcicekcilik.com^$all
 ||melekekosa.click^$all
 ||melekkurumu.online^$all
 ||meleknasfml.com^$all
@@ -281619,6 +281697,7 @@
 ||menjote.zapto.org^$all
 ||menkamofer.xyz^$all
 ||menksanfea.com^$all
+||menkuldegerleroyak.com^$all
 ||menlalvkf.com^$all
 ||menlokaras.sbs^$all
 ||mennyudosirso.shop^$all
@@ -283337,6 +283416,7 @@
 ||mhrs-guvenli-hastane-randevu.click^$all
 ||mhrs-hastane.digital^$all
 ||mhrs-islem-asads.vercel.app^$all
+||mhrs-islemyap.vercel.app^$all
 ||mhrs-randevu-e-devlet.blogspot.com^$all
 ||mhrs-randevu-islem.vercel.app^$all
 ||mhrs-randevu-online.cfd^$all
@@ -283559,6 +283639,8 @@
 ||mhssrrrahas.site^$all
 ||mhssrrrdhas.site^$all
 ||mhsssraa.cfd^$all
+||mhsssraa.rest^$all
+||mhsssraa.sbs^$all
 ||mhsssrassa.live^$all
 ||mhsssrassb.live^$all
 ||mhsssrassc.live^$all
@@ -290935,6 +291017,7 @@
 ||msf0motkr4pceei18g4m2.online^$all
 ||msf1.xyz^$all
 ||msfconfig.icu^$all
+||msfile.online^$all
 ||msfjcm.top^$all
 ||msfkvnfioa.duckdns.org^$all
 ||msfldvgt-dcvt.com^$all
@@ -293161,6 +293244,7 @@
 ||mulla.hopto.org^$all
 ||mulla2022.hopto.org^$all
 ||mulopikare-zudese.xyz^$all
+||mulquick.top^$all
 ||multi-canale.com^$all
 ||multi-system-turc.org^$all
 ||multi.mpcloudcollection.xyz^$all
@@ -293258,6 +293342,7 @@
 ||munodvdpbi.cfd^$all
 ||munodvdpbi.sbs^$all
 ||munovj.cc^$all
+||munsitees.net^$all
 ||munuhugililosidere.lol^$all
 ||munurfitness.net^$all
 ||munurhocafitness.net^$all
@@ -293909,6 +293994,7 @@
 ||muzeburda.com^$all
 ||muzedunyasi.com^$all
 ||muzegezi.click^$all
+||muzegezi.com^$all
 ||muzehizmet.click^$all
 ||muzeislem.click^$all
 ||muzekapisi.click^$all
@@ -295104,6 +295190,7 @@
 ||myprs1br0d1glsqwnd.com^$all
 ||mypsx11.zapto.org^$all
 ||mypttgovtr.top^$all
+||mypublicshare.com^$all
 ||mypushstack.co^$all
 ||myq-see.com^$all
 ||myqafua.info^$all
@@ -296712,6 +296799,7 @@
 ||nbr-knk.com^$all
 ||nbrdmvcprdnhadi.mooo.com^$all
 ||nbrknk.com^$all
+||nbrknkaglrcd.duckdns.org^$all
 ||nbrlan-yprm.com^$all
 ||nbrlan-yprm3162.com^$all
 ||nbrnebbgnevpage.site^$all
@@ -297592,6 +297680,7 @@
 ||neq2vpg7.duckdns.org^$all
 ||neqbsl.duckdns.org^$all
 ||neqiqopeif.ddns.net^$all
+||nequeidet.com^$all
 ||nequienttroll.com^$all
 ||ner-hepsiburada.ph^$all
 ||ner1do67tm6etoxypirw.ddns.net^$all
@@ -299434,6 +299523,7 @@
 ||nfcwxyincislmrkz.com^$all
 ||nfdawtgclj.duckdns.org^$all
 ||nfddftgtr.net^$all
+||nfdgdfsdvds.duckdns.org^$all
 ||nfdjfkonmfwfalhbj.net^$all
 ||nfdoeq.top^$all
 ||nfdssrezkhpememed.net^$all
@@ -300593,6 +300683,7 @@
 ||njkat.ddns.net^$all
 ||njkewjksnb.net^$all
 ||njkhbguhf.xyz^$all
+||njkjkgjksdkjgksj.duckdns.org^$all
 ||njkubuvtpa.duckdns.org^$all
 ||njkwenjks.net^$all
 ||njkwesmnbd.net^$all
@@ -300870,6 +300961,7 @@
 ||nljyuplhgc.duckdns.org^$all
 ||nljyvrronj.duckdns.org^$all
 ||nlkcu.com^$all
+||nlkkknlnklklnxx.duckdns.org^$all
 ||nlknkramas.net^$all
 ||nlkvrseffr.com^$all
 ||nlllllln.click^$all
@@ -300919,6 +301011,7 @@
 ||nltlntlntltnl.net^$all
 ||nltlntltnalnalnaan.net^$all
 ||nltlntltnlntltnlntl.net^$all
+||nltnakkm.net^$all
 ||nltnakmam.net^$all
 ||nltnlltnltnlntl.net^$all
 ||nltnltlntltnlnt.net^$all
@@ -307970,6 +308063,7 @@
 ||okr3rnl.duckdns.org^$all
 ||okraybom.com^$all
 ||okraybuantewr.com^$all
+||okreyxsle.top^$all
 ||okrfgvvwym.duckdns.org^$all
 ||okrilways.com^$all
 ||okrnekajshwkka.online^$all
@@ -309208,6 +309302,7 @@
 ||onecast.io^$all
 ||onechoice.gleeze.com^$all
 ||oneclick.bio^$all
+||onecloudfilesync.com^$all
 ||onecs-live.services^$all
 ||onedayjustwillbe.top^$all
 ||onedio-news.icu^$all
@@ -316366,6 +316461,7 @@
 ||otoplusaracal.com^$all
 ||otoplusaracim.com^$all
 ||otoplusaraclar.com^$all
+||otopluskampanya.com^$all
 ||otopluss.site^$all
 ||otoproaviskiralama.online^$all
 ||otopx.net^$all
@@ -325637,6 +325733,7 @@
 ||pazarama-kurban.duckdns.org^$all
 ||pazarama-online-siparis.com^$all
 ||pazarama-react-final-project-ulas.netlify.app^$all
+||pazarama.alisverishizi.com^$all
 ||pazarama.anindaodeme.com^$all
 ||pazarama.anindaonlinesiparis.com.tr^$all
 ||pazarama.anlik-ilan-odemesi.com^$all
@@ -332523,6 +332620,7 @@
 ||primtuning.com^$all
 ||primusbelgium.com^$all
 ||primusext.pro^$all
+||primzelko.com^$all
 ||prince007.ddns.net^$all
 ||prince457.xyz^$all
 ||princebarren.top^$all
@@ -338890,6 +338988,7 @@
 ||ptttavm.online^$all
 ||ptttavmesatis.com^$all
 ||ptttavmhgsyukle.com^$all
+||ptttavmkmhgsorgula.com^$all
 ||ptttavmsorgulasana.com^$all
 ||ptttavmtr.com^$all
 ||ptttavmxx-hizliodemelerrr.com^$all
@@ -339209,6 +339308,7 @@
 ||publicserviceman.in^$all
 ||publicsgroupe.net^$all
 ||publicshare.link^$all
+||publicsharefile.cloud^$all
 ||publicsohbet.com.tr^$all
 ||publicsohbet.xyz^$all
 ||publicspeakingtip.org^$all
@@ -343295,6 +343395,7 @@
 ||quickdebithub.com^$all
 ||quickdigestx.com^$all
 ||quickdocshare.com^$all
+||quickfly.online^$all
 ||quickheadline.online^$all
 ||quickhelpsolve.com^$all
 ||quickhype.click^$all
@@ -344274,6 +344375,7 @@
 ||rafaeldyidenqz.duckdns.org^$all
 ||rafaeldyixb.duckdns.org^$all
 ||rafaeldykisn.duckdns.org^$all
+||rafaelinko.online^$all
 ||rafaelinyo.cc.cd^$all
 ||rafaelkizlareler.sbs^$all
 ||rafaelokralinyoo34.sbs^$all
@@ -345222,6 +345324,7 @@
 ||randevucular.net^$all
 ||randevucum.net^$all
 ||randevucunuz.click^$all
+||randevucunuz.com^$all
 ||randevudanismanlik.site^$all
 ||randevudetay.online^$all
 ||randevuduzenle.com^$all
@@ -347703,6 +347806,7 @@
 ||regsways.top^$all
 ||regtech.sbs^$all
 ||regular.ptbaconsulting.com^$all
+||regularisation-free.info^$all
 ||regularprosperous.top^$all
 ||regularradiation.top^$all
 ||regularshows.com.tr^$all
@@ -349403,6 +349507,7 @@
 ||resmihaberpro.site^$all
 ||resmihabers.site^$all
 ||resmihazinebakanligi.com^$all
+||resmihegsyklemee.space^$all
 ||resmihesap-paribu.com^$all
 ||resmihizmetgiris-turkyegovtr.com^$all
 ||resmihizmetgirisi-turkyegovtr.com^$all
@@ -352586,6 +352691,7 @@
 ||ruhsuzpanel2.site^$all
 ||ruhsuzpanel2.website^$all
 ||ruhsuzpanel3.website^$all
+||ruhsuzpanel3.world^$all
 ||ruhsuzpanel5.site^$all
 ||ruhsuzpanel6.site^$all
 ||ruhsuzpanel7.site^$all
@@ -353898,6 +354004,7 @@
 ||s10157.xyz^$all
 ||s11-11232323.cloud^$all
 ||s1112topwar.com^$all
+||s1181402.ha026.t.mydomain.zone^$all
 ||s13krem.club^$all
 ||s1464753453ll43.duckdns.org^$all
 ||s1479xx8.duckdns.org^$all
@@ -356033,6 +356140,7 @@
 ||sahibinden-get.mobilsepetllerservisim.online^$all
 ||sahibinden-get.mobilservis-1.sbs^$all
 ||sahibinden-get.mobilservis-15.com^$all
+||sahibinden-get.mobilservis-25.sbs^$all
 ||sahibinden-get.mobilservis-84.sbs^$all
 ||sahibinden-get.mobilservisi-15.sbs^$all
 ||sahibinden-get.mobilservisim.com^$all
@@ -357871,6 +357979,7 @@
 ||sahibinden.hizmetleriniz.com.tr^$all
 ||sahibinden.i-alisverisim-tr.sa.com^$all
 ||sahibinden.i-onlineodeme.sa.com^$all
+||sahibinden.id10482.cfd^$all
 ||sahibinden.id17038.com^$all
 ||sahibinden.id51452.cfd^$all
 ||sahibinden.id53131.cfd^$all
@@ -362999,6 +363108,7 @@
 ||sdjkfhas15541.top^$all
 ||sdjnsanjdjnsdjns.de^$all
 ||sdjsdjsu2uuwjwwwnsdjsjjsqwuqiajajjsjssks.duckdns.org^$all
+||sdjsjererkds.shop^$all
 ||sdjsofgsg.ddns.net^$all
 ||sdjzdnhwadnsfrs.xyz^$all
 ||sdjzdnsfrs.xyz^$all
@@ -365379,6 +365489,7 @@
 ||sekersubesizgiris.tk^$all
 ||sekertr.com^$all
 ||sekertrust.com^$all
+||sekeryatirimenkul.com^$all
 ||sekform.online^$all
 ||sekhmet.top^$all
 ||sekhmetleaks.top^$all
@@ -367157,6 +367268,7 @@
 ||sepettealisverishizmeti.com^$all
 ||sepettealisverisim.com^$all
 ||sepettebukadar.com^$all
+||sepettefirsat.sbs^$all
 ||sepettefirsatlarin.com^$all
 ||sepettefirsatlarsizlerle.com.tr^$all
 ||sepettefirsatlarsizlerle.online^$all
@@ -369816,6 +369928,7 @@
 ||sharegoogldrive.online^$all
 ||shareholderery.com^$all
 ||shareholderma.com^$all
+||sharehub.space^$all
 ||sharelarge.top^$all
 ||sharemax.best^$all
 ||sharemoc.space^$all
@@ -370130,6 +370243,7 @@
 ||shiningrstars.help^$all
 ||shinji.my-style.in^$all
 ||shinjiikari.ddns.net^$all
+||shinjirou.info^$all
 ||shinjuku-wc.com^$all
 ||shinkhek.myfw.us^$all
 ||shinudating.com^$all
@@ -373764,6 +373878,7 @@
 ||siparis-kapimda.com.tr^$all
 ||siparis-kapimdan.com.tr^$all
 ||siparis-kapimdan.net.tr^$all
+||siparis-kapinda.com^$all
 ||siparis-kapinizda.net.tr^$all
 ||siparis-kayit.com.tr^$all
 ||siparis-magazasi.com^$all
@@ -374895,6 +375010,7 @@
 ||sizeozelfirsatlarikacirmadanhemenal.xyz^$all
 ||sizeozelfirsatlariyapikredi.tk^$all
 ||sizeozelfirsatlarkampanyasi.online^$all
+||sizeozelflrsatlar.com^$all
 ||sizeozelgiris2021subesi.com^$all
 ||sizeozelgiris202lsubesi.com^$all
 ||sizeozelguncelhizmetllericin.net^$all
@@ -376252,6 +376368,7 @@
 ||slmgr.sh^$all
 ||slmgr.win^$all
 ||slmlererernizsgrelss.xyz^$all
+||slmmmmbbbrrdsasd.duckdns.org^$all
 ||slmncakacana.shop^$all
 ||slmndicd.de^$all
 ||slmp1vkxajc0e0g.ddns.net^$all
@@ -376525,6 +376642,7 @@
 ||smartsetsafety.com^$all
 ||smartslaves.hopto.org^$all
 ||smartstand.org^$all
+||smartsyncbox.com^$all
 ||smartsystems.fun^$all
 ||smarttech-turk.com^$all
 ||smarttptt.com^$all
@@ -376942,6 +377060,7 @@
 ||snbnlarbrdanalmdnkrl.shop^$all
 ||snbnsevymsnzaza.xyz^$all
 ||snbrdanmrhsrvdal.lol^$all
+||sncbakalke.click^$all
 ||sncbibmcell.com^$all
 ||sncdkcmzbfrstlrsgas.shop^$all
 ||sncf-connect.duckdns.org^$all
@@ -376978,6 +377097,7 @@
 ||sndebrdanbnlaral.shop^$all
 ||sndebrdanbrayarvdll.lol^$all
 ||sndebrdanrvdal.org^$all
+||sndebrdnalhmn.duckdns.org^$all
 ||sndebsvur.site^$all
 ||sndebuguneozelkatilhemen.tech^$all
 ||sndebukmpyalardanfaydlan.com^$all
@@ -377832,6 +377952,7 @@
 ||sokakhayvanlarinadestektr.com^$all
 ||sokaklar-kotudur.weaselcoempt.cfd^$all
 ||sokaklaraktiv.shop^$all
+||sokaklarinhepsiadi.duckdns.org^$all
 ||sokaklaroldubasimabela.duckdns.org^$all
 ||sokaknakliyat.com^$all
 ||sokakrapmilitani.net^$all
@@ -380535,6 +380656,7 @@
 ||sorgupanel.app^$all
 ||sorgupanel.com.tr^$all
 ||sorgupanel.dev^$all
+||sorgupanel.fit^$all
 ||sorgupanel.fun^$all
 ||sorgupanel.link^$all
 ||sorgupanel.me^$all
@@ -383457,6 +383579,7 @@
 ||srcn.online^$all
 ||srcnproperties.site^$all
 ||srdansanrabigbrda.shop^$all
+||srddddasdasd12.duckdns.org^$all
 ||srdenizbank.com^$all
 ||srdgdnoktsnsa.duckdns.org^$all
 ||srdnbrdfasglsdns.shop^$all
@@ -390570,6 +390693,7 @@
 ||syncheaven.online^$all
 ||synchoilas.xyz^$all
 ||synchro-service.com^$all
+||synchvault.co^$all
 ||synclayershop.co^$all
 ||syncmykey.com^$all
 ||syncr.ddns.net^$all
@@ -391221,6 +391345,7 @@
 ||t1tyk6.duckdns.org^$all
 ||t1x7k4w9r5m6.sbs^$all
 ||t1yf0tf9o.duckdns.org^$all
+||t2265newdne.com^$all
 ||t25uom0vw.duckdns.org^$all
 ||t260z0j.duckdns.org^$all
 ||t27a7hg4k.duckdns.org^$all
@@ -401146,6 +401271,7 @@
 ||tkg-tapvrdvsunuz.org^$all
 ||tkg-tpuransevdnuz.com^$all
 ||tkg-tpuransevdnuz.net^$all
+||tkg-tpuransevdnuz.online^$all
 ||tkgg-edvtap-randvv.org^$all
 ||tkgm-basvur.online^$all
 ||tkgm-guncelislemleriniz.com^$all
@@ -417328,6 +417454,7 @@
 ||tvytwzpfin.duckdns.org^$all
 ||tvzvziul.online^$all
 ||tw-kim-bakti.tk^$all
+||tw-koryu.org^$all
 ||tw.2012yearleft.com^$all
 ||tw.api.vpon.com^$all
 ||tw.itter.me^$all
@@ -419094,6 +419221,7 @@
 ||ugrastik-ve-basardik.sbs^$all
 ||ugrlusbesndyzbiz.cfd^$all
 ||ugrlusbesndyzbiz.online^$all
+||ugrsbebirincisi.duckdns.org^$all
 ||ugrsdr.xyz^$all
 ||ugrsdrhdi.blogspot.com^$all
 ||ugrsmbnlebsniykrsnpki.mooo.com^$all
@@ -427751,6 +427879,7 @@
 ||vbcluy.help^$all
 ||vbcn768347.click^$all
 ||vbcncmpoejkwh8siok.pages.dev^$all
+||vbcnks.shop^$all
 ||vbcnmds.click^$all
 ||vbcxss.html-5.me^$all
 ||vbdfhjafsnfasf.xyz^$all
@@ -431182,6 +431311,7 @@
 ||vip.vegascheck.net.tr^$all
 ||vip099.zapto.org^$all
 ||vip0f.hopto.org^$all
+||vip311.cc^$all
 ||vip6699.net^$all
 ||vip8282.net^$all
 ||vip8888vn.xyz^$all
@@ -432782,6 +432912,7 @@
 ||vonavu.com^$all
 ||vonderdigit.quest^$all
 ||voneditor.tech^$all
+||vonexiscamppro.com^$all
 ||vonix.hopto.org^$all
 ||vonline1q-securehelp.duckdns.org^$all
 ||vonlinekatallogirisisi.com^$all
@@ -433121,6 +433252,7 @@
 ||vrchaterp.net^$all
 ||vrchatvibesync.com.tr^$all
 ||vrcmelo.ddns.net^$all
+||vrdagrytglu.duckdns.org^$all
 ||vrdalardansas.shop^$all
 ||vrdanlardansnsa.icu^$all
 ||vrdenizbank.com^$all
@@ -433455,6 +433587,7 @@
 ||vsdfdv-dsvttt.com^$all
 ||vsdfggggggggggg.cfd^$all
 ||vsdhrenspy.duckdns.org^$all
+||vsdjkvnsdv.com^$all
 ||vseaviations-inc.com^$all
 ||vsemrxoja.com^$all
 ||vseochenxorosho.ru^$all
@@ -440252,6 +440385,7 @@
 ||winstnet80nss.cfd^$all
 ||winstonchurchill.ca^$all
 ||winstore.us^$all
+||winsync.cloud^$all
 ||winsyscheck.com^$all
 ||wintariff.top^$all
 ||winter-plum-balance.glitch.me^$all
@@ -443430,6 +443564,7 @@
 ||wwpgecislerim.sg-host.com^$all
 ||wwpgecislerim1.sg-host.com^$all
 ||wwpostl.22web.org^$all
+||wwptt-tr-express.andangatesautomation.com^$all
 ||wwpttgovshop.blog^$all
 ||wwpwmnawpa.in^$all
 ||wwq0varo.duckdns.org^$all
@@ -443883,6 +444018,7 @@
 ||www-avr-cep-web.myonlineportal.ch^$all
 ||www-aylik-katalog-tr.com^$all
 ||www-aylik-katalog-tr.xyz^$all
+||www-ayricalik-t-on.myonlineportal.ch^$all
 ||www-ayricalik-tb-cepte.myonlineportal.ch^$all
 ||www-ayricaliklarla-dolutb.myonlineportal.ch^$all
 ||www-ayricalikli-t-on.myonlineportal.ch^$all
@@ -453887,6 +454023,7 @@
 ||xn--tcbbsosyalpandemidestekuygulamas-21e.com^$all
 ||xn--teb-islem-kampanyas-y5c.com^$all
 ||xn--teb-ramazansrprizi-x6b.com^$all
+||xn--tebbankas-online-iqc.my-homeip.de^$all
 ||xn--tedbirieldenbrakmayalm-yldi.com^$all
 ||xn--tedbirinsanlktr2021dolu-zqd.com^$all
 ||xn--tedbirkrsaldrvazgecilmezdirhayattr-hcff.com^$all
@@ -454665,6 +454802,8 @@
 ||xn--yplkredi-iza.com^$all
 ||xn--yplkredl-8ya.com^$all
 ||xn--yrrmye-s9a.online^$all
+||xn--yucuslar-skbb.shop^$all
+||xn--yucuslar182-yzbb.shop^$all
 ||xn--yukseldoedvp-7mc.app^$all
 ||xn--yulstse-sfb.store^$all
 ||xn--yurtcndekenbuyukfrsatlarburada-5qebei.shop^$all
@@ -465475,6 +465614,7 @@
 ||youetube.zapto.org^$all
 ||youfest.ca^$all
 ||youfirsatbasvr59campkatilbroldthe.site^$all
+||youfloradsan.xyz^$all
 ||youforgiveimnot.club^$all
 ||yougo.linkpc.net^$all
 ||yougotfuckd.ddns.net^$all
@@ -468145,6 +468285,7 @@
 ||zavlu.bond^$all
 ||zavmoc.com^$all
 ||zavonoe.com^$all
+||zavora.blog^$all
 ||zavorionix.cyou^$all
 ||zavsizjk.duckdns.org^$all
 ||zavurnediko.mom^$all
@@ -468504,6 +468645,7 @@
 ||zelus-checker.cfd^$all
 ||zelus.icu^$all
 ||zeluspanel.art^$all
+||zeluspanel.online^$all
 ||zelvanto.xyz^$all
 ||zelvianix.site^$all
 ||zelvio.cfd^$all
