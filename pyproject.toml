@@ -7,7 +7,7 @@ requires-python = ">=3.15"
 dependencies = [
     "aiofiles==25.1.0",
     "httpx==0.28.1",
-    "tldextract==5.3.2",
+    "tldextract==5.4.0",
     "tqdm==4.70.1",
 ]
 
