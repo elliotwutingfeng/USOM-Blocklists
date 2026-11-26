@@ -264,6 +264,7 @@
 *://*.031724031724031724.cloud/*
 *://*.032015542ss25ck.com/*
 *://*.032094092374786723.cloud/*
+*://*.03214aa.site/*
 *://*.0324712667128301qo3294.store/*
 *://*.0324824o2346617624e.store/*
 *://*.033323223213.online/*
@@ -1405,6 +1406,7 @@
 *://*.101firsattlr.xyz/*
 *://*.101firstalariindirimlerde.com/*
 *://*.101firsxtlarburada.com/*
+*://*.101flrsatdiyari.com/*
 *://*.101frsatlararwq.click/*
 *://*.101frsatlararwq.com/*
 *://*.101frsatlararwq.live/*
@@ -4976,6 +4978,7 @@
 *://*.1ortakplatform.com/*
 *://*.1orvexalithrontechnologies.cyou/*
 *://*.1oy4bx0zzv.com/*
+*://*.1p8n3.com/*
 *://*.1paf1lacebasket.top/*
 *://*.1papara.com/*
 *://*.1paribu.com/*
@@ -5050,6 +5053,7 @@
 *://*.1ua.eu/*
 *://*.1und1.de/*
 *://*.1uybimcell.net/*
+*://*.1v8r6.com/*
 *://*.1vakifsubedigital.xyz/*
 *://*.1vd-dfdrrmdrlekleri.net/*
 *://*.1vexorantiqubentharion.cyou/*
@@ -6389,6 +6393,8 @@
 *://*.21211546122.xyz/*
 *://*.21212126513212156.space/*
 *://*.2121232323232.cloud/*
+*://*.212141.xyz/*
+*://*.212142141.xyz/*
 *://*.2121asdasdqwdsad.click/*
 *://*.212224252.cloud/*
 *://*.213-322-434.cfd/*
@@ -7768,6 +7774,7 @@
 *://*.2j4.xyz/*
 *://*.2jc0t71.cn/*
 *://*.2jm24ft.cn/*
+*://*.2k6z5.com/*
 *://*.2kampanya-indirimamom.tk/*
 *://*.2kampanya-indirimbsan.tk/*
 *://*.2kampanya-indirimbsxs.tk/*
@@ -9232,6 +9239,7 @@
 *://*.3yfxpn5aoa.com/*
 *://*.3yilozelkampanyasisizlerle.cloud/*
 *://*.3z.nu/*
+*://*.3z1a4.site/*
 *://*.3z4.xyz/*
 *://*.3za2bbcs.ru/*
 *://*.3zer0.com/*
@@ -9744,6 +9752,7 @@
 *://*.47tramerl.app/*
 *://*.47ucuzabimcellyukleme.cf/*
 *://*.4812183513hizlcsmler-aracm360ptavm.online/*
+*://*.48128bsvrrkredisnfrstl.online/*
 *://*.48171ccom.com/*
 *://*.48223.cloud/*
 *://*.482319.xyz/*
@@ -9848,6 +9857,7 @@
 *://*.4b35d78e7254.net/*
 *://*.4b3612d31c6e63ad2acb2dac66ff8c7f.site/*
 *://*.4b6432453233981d0595033c23.com/*
+*://*.4b9k3.com/*
 *://*.4b9m5hy.cn/*
 *://*.4bb1332453233981d0595033c23.com/*
 *://*.4bb13903074567453981d0595033c23.com/*
@@ -9900,6 +9910,7 @@
 *://*.4g-whatsapp-p18.xyz/*
 *://*.4g-whatsapp-p8.xyz/*
 *://*.4g-whatsapp-p9.xyz/*
+*://*.4g2m7.com/*
 *://*.4gbinternethediye.xyz/*
 *://*.4gfsst-esh4e1.net/*
 *://*.4gk3cd7fhik7rxve.fun/*
@@ -10410,6 +10421,8 @@
 *://*.5312211422245222224552245591.xyz/*
 *://*.5312211422245222224552245593.xyz/*
 *://*.5312211422245222224552245597.xyz/*
+*://*.5312211422245222224552245598.xyz/*
+*://*.5312211422245222224552245599.xyz/*
 *://*.531577.xyz/*
 *://*.53182591342.com/*
 *://*.532129598215915252.com/*
@@ -10455,6 +10468,7 @@
 *://*.534534543.net/*
 *://*.534561883.com/*
 *://*.53456326.store/*
+*://*.534763785243.sbs/*
 *://*.5348123738340023o12300.xyz/*
 *://*.534834kmpnyabsvr.online/*
 *://*.534953.cloud/*
@@ -10881,6 +10895,7 @@
 *://*.5cq6cavsur.top/*
 *://*.5ctoeb.bid/*
 *://*.5d14vnfb.space/*
+*://*.5d1t3.com/*
 *://*.5d5d554d0cd4.com/*
 *://*.5days-2222-bsvrrglbal.cloud/*
 *://*.5dcephp.cn/*
@@ -10945,6 +10960,7 @@
 *://*.5milyonmusteriozelgiris.com/*
 *://*.5milyonshiba.tk/*
 *://*.5mp.eu/*
+*://*.5n6k2.com/*
 *://*.5nkn234bhsfh.top/*
 *://*.5oa.homes/*
 *://*.5ocakfirsatlari.shop/*
@@ -10992,6 +11008,7 @@
 *://*.5voltafirsatti.sbs/*
 *://*.5voltakampya.cfd/*
 *://*.5w4d56x4w65d4x4wxd.click/*
+*://*.5wb2k.com/*
 *://*.5wg3w278e3oamlohmcinrkh.live/*
 *://*.5wnuwuv7xw.com/*
 *://*.5x5web.com/*
@@ -11164,6 +11181,8 @@
 *://*.62zmk.xyz/*
 *://*.63-125-257-33.com/*
 *://*.63108413.cloud/*
+*://*.6312211422245222224552245590.xyz/*
+*://*.6312211422245222224552245591.xyz/*
 *://*.63214998422419811284.com/*
 *://*.6323232321.cloud/*
 *://*.63234212.cloud/*
@@ -11362,6 +11381,7 @@
 *://*.66-888.shop/*
 *://*.6606b75917d4.com/*
 *://*.660danm.top/*
+*://*.66126121.xyz/*
 *://*.66166266457721.cloud/*
 *://*.66201.cloud/*
 *://*.66205552.cloud/*
@@ -11460,6 +11480,7 @@
 *://*.6773345531.xyz/*
 *://*.6773345577.xyz/*
 *://*.6773345589.xyz/*
+*://*.678345367986.sbs/*
 *://*.678432243.net/*
 *://*.6785210866.top/*
 *://*.6785423782345.life/*
@@ -11608,6 +11629,7 @@
 *://*.6ca6aa895bd4.com/*
 *://*.6cdbabab3854.net/*
 *://*.6ce.us/*
+*://*.6czpv1rp4f3503z7jbv.online/*
 *://*.6d6w6dwd.click/*
 *://*.6d8faa1cd154.net/*
 *://*.6db3b14252c23c56.xyz/*
@@ -11718,6 +11740,7 @@
 *://*.6we4wh.top/*
 *://*.6wfz62n59rgclkrrvtque4hvhsrf8yd4l.com/*
 *://*.6x.work/*
+*://*.6xd7k.com/*
 *://*.6xdnikw9rz.com/*
 *://*.6xhxkpcpma.com/*
 *://*.6xq.app/*
@@ -12490,6 +12513,7 @@
 *://*.7level.cloud/*
 *://*.7lkakxservicessorgusystem.com/*
 *://*.7m2b9k6x3s8qfh4nva.sbs/*
+*://*.7m4t2.com/*
 *://*.7ma.app/*
 *://*.7martdenizlefaisizle.online/*
 *://*.7mayissifrance.cloud/*
@@ -12528,6 +12552,7 @@
 *://*.7r0i6gkcm1.top/*
 *://*.7r3xtzaao.ru/*
 *://*.7raven.uno/*
+*://*.7rc1b.com/*
 *://*.7rkrks1.cn/*
 *://*.7s.com.tr/*
 *://*.7s4a15d7s8a4dasda35d.com.tr/*
@@ -12563,6 +12588,7 @@
 *://*.7won-p-t-t-a-v-m.shop/*
 *://*.7wpinibw.ml/*
 *://*.7x2k9n4p1q0r5s8t3v6w0y2z4u7b9.com/*
+*://*.7yd9w.com/*
 *://*.7years0010110100003.cloud/*
 *://*.7years01010100002.cloud/*
 *://*.7years101001010004.cloud/*
@@ -12587,6 +12613,7 @@
 *://*.7yilsizlerle-binance.com/*
 *://*.7yltkv91w4s2eiq.skin/*
 *://*.7ymboe33m.cf/*
+*://*.7z2p5.com/*
 *://*.7zip.golf/*
 *://*.7zip2024.info/*
 *://*.7zoyco.cn/*
@@ -13152,6 +13179,7 @@
 *://*.8bqk2x9m7f4zzhna.cfd/*
 *://*.8c1.net/*
 *://*.8c3ef8ed2d74b77c26facc5f0ddd8f61.ca/*
+*://*.8c5f1.com/*
 *://*.8ccf9e67.net/*
 *://*.8cf1utrb6.xyz/*
 *://*.8cl5x35yl0.icu/*
@@ -13188,6 +13216,7 @@
 *://*.8jtuazcr548ajj.com/*
 *://*.8jz2x.icu/*
 *://*.8k06mf9j2j.icu/*
+*://*.8k2m5.com/*
 *://*.8k5pqek.cn/*
 *://*.8kg06yz.cn/*
 *://*.8kk68biiitj.com/*
@@ -13220,6 +13249,7 @@
 *://*.8ozhygzz5eke.com/*
 *://*.8p108.ru/*
 *://*.8p2td0dlm9jzu0j2wt1h2aw6p.click/*
+*://*.8p3k6.com/*
 *://*.8p5kn38.cn/*
 *://*.8p6yr34.cn/*
 *://*.8q0usq242dh.ru/*
@@ -13944,6 +13974,7 @@
 *://*.9jw.us/*
 *://*.9kakxservicessorgusystem.com/*
 *://*.9kaskxservicessorgusystem.com/*
+*://*.9kd2r.com/*
 *://*.9kf.me/*
 *://*.9kwaase.cn/*
 *://*.9lnbo2e3.ru/*
@@ -16801,6 +16832,7 @@
 *://*.ab-pttgov.top/*
 *://*.ab10001.com/*
 *://*.ab1145b758c30.com/*
+*://*.ab124.live/*
 *://*.ab1abad1d0c2a.com/*
 *://*.ab1c403220c27.com/*
 *://*.ab1jcmllsonxxl.com/*
@@ -21307,6 +21339,7 @@
 *://*.advancedcodeaccess.com/*
 *://*.advancedcreations.store/*
 *://*.advancedfeed.pro/*
+*://*.advancedfences.com/*
 *://*.advancedtoenableplatform.com/*
 *://*.advancedtop.pw/*
 *://*.advancedtransmitart.net/*
@@ -22160,6 +22193,7 @@
 *://*.agugogaasdasd8sadasd.click/*
 *://*.agugogaasdsahd982sadw.click/*
 *://*.agugogawwss292sswsad.click/*
+*://*.aguguasdoasda9sad.click/*
 *://*.agugugoaasdhashd9.click/*
 *://*.agungwaluyaproperty.com/*
 *://*.agunugumundikci.tk/*
@@ -30413,6 +30447,7 @@
 *://*.alliancesymphony.top/*
 *://*.allianz-tr.com/*
 *://*.allianzdirekt.online/*
+*://*.allianzdoga.com/*
 *://*.allianzsigortaaracilikhizmetleri.com/*
 *://*.allianztr.com/*
 *://*.alligatorbirdwaste.com/*
@@ -35156,6 +35191,7 @@
 *://*.aracmuayenemial.com/*
 *://*.aracmuayenemiz.com/*
 *://*.aracmuayenemnezaman.com/*
+*://*.aracmuayenemrandevu.com/*
 *://*.aracmuayenemtck.com/*
 *://*.aracmuayenemtr.xyz/*
 *://*.aracmuayenemym.net/*
@@ -35500,6 +35536,7 @@
 *://*.aractvturkmuayne.net/*
 *://*.aractvtvuk.net/*
 *://*.aracvehsrlordan.com/*
+*://*.aracvemuayenelerilesuperfirsat.com/*
 *://*.aracvergimiodeonline.com/*
 *://*.aracvergiodeme.com/*
 *://*.aracvergisi.org/*
@@ -36825,6 +36862,7 @@
 *://*.arvionhubs.store/*
 *://*.arvionlabs.shop/*
 *://*.arvionlabs.site/*
+*://*.arviscar.com.tr/*
 *://*.arvision.com.co/*
 *://*.arvisto.digital/*
 *://*.arvixo.xyz/*
@@ -36885,6 +36923,7 @@
 *://*.arzumhdson.com/*
 *://*.arzumindirim444.com/*
 *://*.arzumindirima.com/*
+*://*.arzumindirimalw499.com/*
 *://*.arzumindirimleri.com/*
 *://*.arzumindirimszl.com/*
 *://*.arzumindrimszznlex.com/*
@@ -36899,6 +36938,7 @@
 *://*.arzumsizinindirimiiz.com/*
 *://*.arzumsseninlew.com/*
 *://*.arzumsstwtw.com/*
+*://*.arzumstindirimsizinns.com/*
 *://*.arzumstwtwc.com/*
 *://*.arzumtblenn.com/*
 *://*.arzumtwtw63.com/*
@@ -38170,6 +38210,7 @@
 *://*.astrayimprisonment.top/*
 *://*.astraymultilateral.top/*
 *://*.astro--pacific.com/*
+*://*.astro-net.net/*
 *://*.astrocaf.com/*
 *://*.astrochecks.xyz/*
 *://*.astrodestino.com.br/*
@@ -39973,6 +40014,7 @@
 *://*.avmturkiye.xyz/*
 *://*.avmwbpixrskmgul.su/*
 *://*.avnarabakiralama.com/*
+*://*.avnfilo.com/*
 *://*.avnlasrch.com/*
 *://*.avntjbsvur1s.com/*
 *://*.avntsbsa.com/*
@@ -40031,6 +40073,7 @@
 *://*.avsa1.com/*
 *://*.avsaraba.com/*
 *://*.avsarabakiralago.com/*
+*://*.avsarabakiralama.net/*
 *://*.avsaracinfilo.com/*
 *://*.avsaracingelsin.com/*
 *://*.avsaracinkurumsal.com/*
@@ -40145,6 +40188,7 @@
 *://*.avsonlinefilom.me/*
 *://*.avsoto.com/*
 *://*.avsotofly.com/*
+*://*.avsotokirala.net/*
 *://*.avsotokiralama.net/*
 *://*.avsotokoc.net/*
 *://*.avsotokockiralama.com/*
@@ -50128,6 +50172,7 @@
 *://*.berenfemnem.net/*
 *://*.berenjironi.ir/*
 *://*.beresor.store/*
+*://*.berff3788.com/*
 *://*.berfinkurumu.com/*
 *://*.bergamasubelerinde.com.tr/*
 *://*.bergamasubelerinde.online/*
@@ -59109,6 +59154,7 @@
 *://*.birlik-guc-irtibat-diyalogtr.com/*
 *://*.birlik-iade-vakti.org/*
 *://*.birlik-turkiyemgovtr.com/*
+*://*.birlik.digital/*
 *://*.birlikberaberlikfonu.com/*
 *://*.birlikberaberliksizlegelsin.com/*
 *://*.birlikbilgi.info/*
@@ -61751,6 +61797,7 @@
 *://*.blgbeach.com/*
 *://*.blghcell.net/*
 *://*.blgirnd.cfd/*
+*://*.blgjemysl0lhq.com/*
 *://*.blh.gq/*
 *://*.blhomes.site/*
 *://*.blhvzouq.com/*
@@ -64449,6 +64496,7 @@
 *://*.bnlsmrndlas.com/*
 *://*.bnlsrdnalsnedehmn.cfd/*
 *://*.bnlsw.net/*
+*://*.bnlziduzxo4r9jmb1jm.cc/*
 *://*.bnmaktuelxym.click/*
 *://*.bnmarket-tr-basvuru.cloud/*
 *://*.bnmasndmasdnasd.com/*
@@ -65294,6 +65342,7 @@
 *://*.bobgoodluck.shop/*
 *://*.bobocam365.icu/*
 *://*.boboyingshi.cc/*
+*://*.bobroviysmex.shop/*
 *://*.bobstore.net/*
 *://*.bobstranz.com/*
 *://*.bobulttoriz.xyz/*
@@ -65494,6 +65543,7 @@
 *://*.bombitup.net/*
 *://*.bombixmhollign.com/*
 *://*.bomble.sbs/*
+*://*.bomboclat.rest/*
 *://*.bombomdak561922.site/*
 *://*.bombomsite.site/*
 *://*.bombsex.net/*
@@ -67701,6 +67751,7 @@
 *://*.brocks33.com/*
 *://*.brockstarapparel.com/*
 *://*.brodam.ro/*
+*://*.brodyagup.com/*
 *://*.brofkyou.click/*
 *://*.broguenko.su/*
 *://*.broinfade.com/*
@@ -73071,6 +73122,7 @@
 *://*.cabbiemail.com/*
 *://*.cabbotany.top/*
 *://*.cabel1lan4ightice2.top/*
+*://*.cabelenet.com/*
 *://*.cabifygratis.info/*
 *://*.cabincalcium.top/*
 *://*.cabinderailment.top/*
@@ -75460,6 +75512,7 @@
 *://*.caterpillarayakkabl.com/*
 *://*.caterpillarinturkiye.top/*
 *://*.caterpillartr.com/*
+*://*.caterpillarturkeyonline.com/*
 *://*.caterplilar-turkiye.com/*
 *://*.caterratification.top/*
 *://*.catervelvet.top/*
@@ -75623,6 +75676,7 @@
 *://*.cayrezlokizyonezdom.net/*
 *://*.caysponsorlari.online/*
 *://*.caytarifleri.sbs/*
+*://*.caza995.site/*
 *://*.cazayer.com/*
 *://*.cazekontrol.com/*
 *://*.cazibeee.com/*
@@ -76132,6 +76186,7 @@
 *://*.cebindekikar.cfd/*
 *://*.cebindekipara.com/*
 *://*.cebinden-hizlica-basvuru.com/*
+*://*.cebindesepet.online/*
 *://*.cebindetrink.digital/*
 *://*.cebindeyapi.click/*
 *://*.cebindeziraatbankasi.com/*
@@ -76221,6 +76276,7 @@
 *://*.cedarchesttrading.com/*
 *://*.cedarcreeklabradoodles.com/*
 *://*.cedarfallsrealtor.com/*
+*://*.cedarfenatlas.info/*
 *://*.cedarshade.site/*
 *://*.cedarsservicesgroup.com/*
 *://*.ceddesoes2001.site/*
@@ -77132,6 +77188,7 @@
 *://*.ceprnobilislernistrapp.online/*
 *://*.ceprteprikactiy.ru/*
 *://*.ceps-e-aktarim-ve-dagitma-tr.com/*
+*://*.ceps-tr.lol/*
 *://*.ceps-yapikredi.com/*
 *://*.cepsatis-tr.online/*
 *://*.cepsec.top/*
@@ -81436,6 +81493,7 @@
 *://*.cluesnova.my/*
 *://*.cluketer.ru/*
 *://*.clumptewa.net/*
+*://*.cluo.cc/*
 *://*.clup.me/*
 *://*.clusee.com/*
 *://*.clusteressence.top/*
@@ -81708,6 +81766,7 @@
 *://*.cnoocim.com/*
 *://*.cnotemmuz-lndrlmleri-bradan-hemen-odemecno.com/*
 *://*.cnpc.com.cn/*
+*://*.cnpcyprus.net/*
 *://*.cnptt.top/*
 *://*.cnpwrd.top/*
 *://*.cnqurorprimity.top/*
@@ -83735,6 +83794,7 @@
 *://*.comyilinilkfirsati.store/*
 *://*.comyilinilkfirsati.xyz/*
 *://*.comypulse.com/*
+*://*.comyrotub.com/*
 *://*.con-ip.com/*
 *://*.con-webs.com/*
 *://*.con.tc/*
@@ -90424,6 +90484,7 @@
 *://*.data-sound-click.com/*
 *://*.data-sys-seq.top/*
 *://*.data-tr.com/*
+*://*.data-xbn2bvt.net/*
 *://*.data.hu/*
 *://*.dataank.com/*
 *://*.dataapricot.shop/*
@@ -97164,6 +97225,7 @@
 *://*.dernizbank.com/*
 *://*.derocanerles.com/*
 *://*.deronchinne.world/*
+*://*.derotaps.icu/*
 *://*.derotin.com/*
 *://*.derotrema.com/*
 *://*.dersanleres.com/*
@@ -103242,6 +103304,7 @@
 *://*.doiqwdoqwnd.com/*
 *://*.doitonin.icu/*
 *://*.doiwitruda.xyz/*
+*://*.dojaekrt.trade/*
 *://*.dojaewf.com/*
 *://*.dojocqewlryi.online/*
 *://*.dokamacto.xyz/*
@@ -103962,6 +104025,7 @@
 *://*.doruhaber.site/*
 *://*.doruhaber.website/*
 *://*.dorukiralama.com/*
+*://*.dorukk.digital/*
 *://*.doruksl.store/*
 *://*.dorukticaretltdsti.com/*
 *://*.dorunora.com/*
@@ -125095,6 +125159,7 @@
 *://*.esorgumaliye.com/*
 *://*.esorgusistemi.org/*
 *://*.esorgutalep.com/*
+*://*.esorgutr.org/*
 *://*.esorguuzlasma.org/*
 *://*.esorguveodeme.com/*
 *://*.esoseraz.cf/*
@@ -125631,6 +125696,7 @@
 *://*.eszoliso.site/*
 *://*.et-distinctio.com/*
 *://*.etabletbasvuru-eba.com/*
+*://*.etabportaltkga.sbs/*
 *://*.etafusion.tech/*
 *://*.etaha.sbs/*
 *://*.etahkimceza.com/*
@@ -131685,6 +131751,7 @@
 *://*.feints.cfd/*
 *://*.feite.cc/*
 *://*.feixamdr01.xyz/*
+*://*.feiyang.my/*
 *://*.fejdgb.net/*
 *://*.fejyhy.com/*
 *://*.fejytyu.store/*
@@ -132715,6 +132782,7 @@
 *://*.fileaccessnow.com/*
 *://*.filealisveris.com/*
 *://*.fileallot.top/*
+*://*.filebinsubesin.sbs/*
 *://*.fileblade.ga/*
 *://*.filebrowserapp.com/*
 *://*.filebrowsereasytouser.com/*
@@ -132737,6 +132805,7 @@
 *://*.filefastdata.com/*
 *://*.filegear.me/*
 *://*.filegust.sbs/*
+*://*.filehingulsubes.sbs/*
 *://*.filehubspot.com/*
 *://*.filekarlmilkkm.com/*
 *://*.filekeso.com/*
@@ -136468,6 +136537,9 @@
 *://*.flashaber.live/*
 *://*.flashaber.online/*
 *://*.flashahbersondakika.com/*
+*://*.flashbasvurular1254356.sbs/*
+*://*.flashbasvurular89456.sbs/*
+*://*.flashbasvurun495633.sbs/*
 *://*.flashbelg.today/*
 *://*.flashbonus.digital/*
 *://*.flashbu.click/*
@@ -138337,6 +138409,7 @@
 *://*.franko.club/*
 *://*.franksuffice.top/*
 *://*.frankwaive.top/*
+*://*.frankyybabasahalaratekrargeld.xyz/*
 *://*.frankyydomxo123.net/*
 *://*.frankyyxd.net/*
 *://*.fransizkonvoy.online/*
@@ -139952,6 +140025,7 @@
 *://*.g4zikrtykleme.net/*
 *://*.g56fgspadisahlar.org/*
 *://*.g584944.click/*
+*://*.g5a.online/*
 *://*.g66aq7w.cn/*
 *://*.g6kwqce.cn/*
 *://*.g7j3w9m2s6k1.cfd/*
@@ -143569,6 +143643,7 @@
 *://*.gatewayitservices.com/*
 *://*.gatewayitsol.com/*
 *://*.gatewaykeeperinformation.com/*
+*://*.gatewaynet.site/*
 *://*.gatewayrecord.com/*
 *://*.gatewerkfaust.info/*
 *://*.gatfagbn.click/*
@@ -151645,6 +151720,7 @@
 *://*.grentab.cyou/*
 *://*.grentacarkiralama.org/*
 *://*.grentakurumsal.com/*
+*://*.grentarental.com/*
 *://*.grentbbvevo.com/*
 *://*.grenthira.com/*
 *://*.grentrepostorh.com/*
@@ -152096,6 +152172,7 @@
 *://*.groggypirogy.top/*
 *://*.groh-ag.com/*
 *://*.grokads.com/*
+*://*.groks-this.info/*
 *://*.groksearch.net/*
 *://*.grol.ru/*
 *://*.gromadapress.cyou/*
@@ -154637,6 +154714,7 @@
 *://*.guvenle-getilan.com/*
 *://*.guvenle-getilan.com.tr/*
 *://*.guvenle-getilan.xyz/*
+*://*.guvenle-ode-10.sbs/*
 *://*.guvenle-ode.sbs/*
 *://*.guvenle-odeme.com/*
 *://*.guvenle-odeme.com.tr/*
@@ -157361,6 +157439,7 @@
 *://*.habers360try.shop/*
 *://*.habers360turk.shop/*
 *://*.habersal.site/*
+*://*.habersayfa12361231.sbs/*
 *://*.habersayfalari176234234.sbs/*
 *://*.habersayfalari234754.sbs/*
 *://*.habersbs45.shop/*
@@ -165955,6 +166034,8 @@
 *://*.hemenarabakiralama.com/*
 *://*.hemenarabakm.com/*
 *://*.hemenarabanburada.net/*
+*://*.hemenarabanikirala.com/*
+*://*.hemenarabanikirala.online/*
 *://*.hemenaracinikirala.com.tr/*
 *://*.hemenaracinikirala.xyz/*
 *://*.hemenarackirala-yolcu360.com/*
@@ -168331,6 +168412,7 @@
 *://*.hg-svrgodme.org/*
 *://*.hg-syukle.gq/*
 *://*.hg-x-scosode.net/*
+*://*.hg0-q-nuu0fy8vm5a.lol/*
 *://*.hg08139.com/*
 *://*.hg227228.com/*
 *://*.hg3b4kiye.net/*
@@ -171164,6 +171246,7 @@
 *://*.hhsnvibsvwur.net/*
 *://*.hhsrtrmrsrgs.com/*
 *://*.hhsrx.net/*
+*://*.hhtagg.cn/*
 *://*.hhtfrm.help/*
 *://*.hhuugeveenturre.site/*
 *://*.hhw1l3gvj.ru/*
@@ -176375,6 +176458,7 @@
 *://*.howardingram658.xyz/*
 *://*.howareyoudoing.buzz/*
 *://*.howcanibegad.com/*
+*://*.howclens.com/*
 *://*.howdoforever.buzz/*
 *://*.howdoin.xyz/*
 *://*.howdoyouday.buzz/*
@@ -181107,6 +181191,7 @@
 *://*.id4523.com/*
 *://*.id452345881.world/*
 *://*.id455512201.world/*
+*://*.id45732.com/*
 *://*.id45780.com/*
 *://*.id45780021.live/*
 *://*.id46088.com/*
@@ -183004,6 +183089,7 @@
 *://*.ildemambalaj.com/*
 *://*.ildemambalaj.com.tr/*
 *://*.ildenizayhan.cfd/*
+*://*.ildizbirik.world/*
 *://*.ildoalsads.one/*
 *://*.ile-al-get-alisverisi.com/*
 *://*.ile-al.com.tr/*
@@ -183219,6 +183305,7 @@
 *://*.ile-satisim.com/*
 *://*.ile-sepet-islemler.com.tr/*
 *://*.ile-sepet-islemleri.com.tr/*
+*://*.ile-sepet-islemleri.info.tr/*
 *://*.ile-sepet-islemleri.net/*
 *://*.ile-sepet-islemleri.net.tr/*
 *://*.ile-sepet.com.tr/*
@@ -186761,6 +186848,7 @@
 *://*.informationrank.net/*
 *://*.informationswitchsystems.com/*
 *://*.informatioshopname.ru/*
+*://*.informative-center.com/*
 *://*.informativebarren.top/*
 *://*.informativeobscurity.top/*
 *://*.informclub.club/*
@@ -187039,6 +187127,7 @@
 *://*.inhibitionmoney.top/*
 *://*.inhibitperpetuate.top/*
 *://*.inhisatc.top/*
+*://*.inhlgaz3x59p6ak.icu/*
 *://*.inhosrc.top/*
 *://*.inhousesoftwaredevelopment.com/*
 *://*.inhslezw.com/*
@@ -195608,6 +195697,7 @@
 *://*.iubmyphz.com/*
 *://*.iucfgy.com/*
 *://*.iuddy.com/*
+*://*.iudmkq07kci5wl7.icu/*
 *://*.iuefgauiaiduihgs.com/*
 *://*.iuefgauiaiduihgs.in/*
 *://*.iuevhksjtsdtssw.com/*
@@ -196230,6 +196320,7 @@
 *://*.iyddqoapepjlrjo.su/*
 *://*.iydnvhyt.online/*
 *://*.iyefkpqrjnee.space/*
+*://*.iyegjb.cc/*
 *://*.iyegov.dev/*
 *://*.iyeisbank.com/*
 *://*.iyem.dev/*
@@ -199479,6 +199570,7 @@
 *://*.jgerhtgmhnivkkb.ru/*
 *://*.jghfg14231xc2fs.pw/*
 *://*.jghkju.ml/*
+*://*.jgkawdq.cloud/*
 *://*.jgkbhl.com/*
 *://*.jgkfndmsndtyu.com/*
 *://*.jgleqolq.xyz/*
@@ -199564,6 +199656,7 @@
 *://*.jiancai008.com/*
 *://*.jianfj.top/*
 *://*.jiaochengyuan.com/*
+*://*.jiaoyang677.sbs/*
 *://*.jiaweo.com/*
 *://*.jiaxdeh.com/*
 *://*.jibaonlinetr.sbs/*
@@ -202422,6 +202515,7 @@
 *://*.kahvetarifleri.click/*
 *://*.kai2xaskdamdxasdxads.cfd/*
 *://*.kaiaflow.icu/*
+*://*.kaiangelsystems.rest/*
 *://*.kaiat31sacjasxak1312c3x1231.shop/*
 *://*.kaiatalents.xyz/*
 *://*.kaicouncil.xyz/*
@@ -203270,6 +203364,7 @@
 *://*.kampanyaarackiralamasuper.com.tr/*
 *://*.kampanyaarackiralamasuper.xyz/*
 *://*.kampanyaareas.click/*
+*://*.kampanyaarzumindirsim.com/*
 *://*.kampanyaayaginizagelsin.xyz/*
 *://*.kampanyaayisonutemmuz.com.tr/*
 *://*.kampanyaayisonutemmuz.online/*
@@ -207130,6 +207225,7 @@
 *://*.karvend.courses/*
 *://*.karvenil.com/*
 *://*.karwayollarimiz.shop/*
+*://*.karyacicek.shop/*
 *://*.karybiy.com/*
 *://*.karzan.net/*
 *://*.karzatakip.pro/*
@@ -210253,6 +210349,7 @@
 *://*.kibank.co/*
 *://*.kibossuqar.com/*
 *://*.kibris-yurticikargo.com/*
+*://*.kibrisacicek.com/*
 *://*.kibrisarazi.com/*
 *://*.kibriscicekmarket.com/*
 *://*.kibrissahibinden.com/*
@@ -210830,6 +210927,7 @@
 *://*.kiralikarabalarantep.info/*
 *://*.kiralikarabalarmix.online/*
 *://*.kiralikarabamax.site/*
+*://*.kiralikarabanavs.com/*
 *://*.kiralikarabanmerkezirent.com.tr/*
 *://*.kiralikarabauyguna.com.tr/*
 *://*.kiralikarac-com.gq/*
@@ -213537,6 +213635,7 @@
 *://*.konodakod.com/*
 *://*.konodonoko.com/*
 *://*.konradhagelstein.info/*
+*://*.konradkerz40000.work/*
 *://*.konrayo.space/*
 *://*.konseptvilla.com/*
 *://*.konseptvillacim.com/*
@@ -218213,6 +218312,7 @@
 *://*.larkdate.app/*
 *://*.larkhollow.site/*
 *://*.larkingsnlbasi.shop/*
+*://*.larkmeadowpress.info/*
 *://*.larkofflce.com/*
 *://*.larmlebrity.top/*
 *://*.larodimas.top/*
@@ -218642,6 +218742,7 @@
 *://*.lcyaolu.com/*
 *://*.lczkgnydf.com/*
 *://*.lczoht.com/*
+*://*.ld-me.cfd/*
 *://*.ld3t8xao8.ru/*
 *://*.ldahtkg.cn/*
 *://*.ldbimcell.com/*
@@ -219050,6 +219151,7 @@
 *://*.leisurelyspecialty.top/*
 *://*.leisurepalace.top/*
 *://*.leisurestics.top/*
+*://*.leitungsen.de/*
 *://*.leivest.com/*
 *://*.leiyuxcx.cn/*
 *://*.lejtdj.biz/*
@@ -219409,6 +219511,7 @@
 *://*.lexorica.com/*
 *://*.lexpeyze.info/*
 *://*.lexpress.me/*
+*://*.lexroni.com/*
 *://*.lexu.click/*
 *://*.lexup.click/*
 *://*.lexvoran.one/*
@@ -222762,6 +222865,7 @@
 *://*.lupitamontoto.com/*
 *://*.lupopro.top/*
 *://*.lupymmtonqps.info/*
+*://*.luqiuid91.com/*
 *://*.lurableme.ru/*
 *://*.lurdinha.psc.br/*
 *://*.lurnas.com/*
@@ -226216,6 +226320,7 @@
 *://*.market-web.cards/*
 *://*.market-yapi.com/*
 *://*.market24expert.site/*
+*://*.market386.com/*
 *://*.marketa101devindirim.store/*
 *://*.marketai.tr/*
 *://*.marketaktuel.info.tr/*
@@ -226468,7 +226573,11 @@
 *://*.marketsepetinizburada.cfd/*
 *://*.marketservice.xyz/*
 *://*.marketsiparis.info.tr/*
+*://*.marketsiparis.lol/*
 *://*.marketsiparis.net.tr/*
+*://*.marketsiparis.xyz/*
+*://*.marketsiparisfile.lol/*
+*://*.marketsiparisfile.xyz/*
 *://*.marketsirasisizde.com/*
 *://*.marketsk-alisveris.com/*
 *://*.marketsk-alisveris.xyz/*
@@ -228638,6 +228747,7 @@
 *://*.mediaveritas.top/*
 *://*.mediaveronica.info/*
 *://*.mediayearn.top/*
+*://*.mediazoik.info/*
 *://*.medical-h.click/*
 *://*.medical-pharmacy.cfd/*
 *://*.medicalacclaim.top/*
@@ -228711,6 +228821,7 @@
 *://*.medlike.pics/*
 *://*.medlinkindustrial.website/*
 *://*.mednyk.gifts/*
+*://*.medochomie.com/*
 *://*.medoviypirog.com/*
 *://*.medowhirl.top/*
 *://*.medpizzalavalouest.com/*
@@ -229802,6 +229913,7 @@
 *://*.mersinstar.xyz/*
 *://*.mersinturktelekom.com/*
 *://*.mersswa.re.kr/*
+*://*.mert-basaran.com/*
 *://*.mertaltunnss.net/*
 *://*.mertandcinar1948.fun/*
 *://*.mertbaab.click/*
@@ -230570,6 +230682,7 @@
 *://*.mhibhglwemp.org/*
 *://*.mhigcb.com/*
 *://*.mhilernduhlzi.cfd/*
+*://*.mhilrndvuzmni.cfd/*
 *://*.mhisp.com/*
 *://*.mhizlimuayenemiz.com/*
 *://*.mhizmetalimlar.com/*
@@ -230700,6 +230813,7 @@
 *://*.mhrsgiris-edvltlogin2026.com/*
 *://*.mhrsgiris.sbs/*
 *://*.mhrsgirisportaliburada.digital/*
+*://*.mhrsgovtr.online/*
 *://*.mhrsgovvtr.net/*
 *://*.mhrsgovvtrr.lol/*
 *://*.mhrsgovvtrr.online/*
@@ -230813,6 +230927,7 @@
 *://*.mhsdhfxbvcb.art/*
 *://*.mhsdhsfdh.art/*
 *://*.mhsglklamhr.cfd/*
+*://*.mhsglklarnvdu.cfd/*
 *://*.mhshemen.uk/*
 *://*.mhskastogreen.uk/*
 *://*.mhsksrsnrndsv.com/*
@@ -231098,6 +231213,7 @@
 *://*.microsoftmse.com/*
 *://*.microsoftoffice-login.com/*
 *://*.microsoftoffice.systems/*
+*://*.microsoftofice.cz/*
 *://*.microsoftonilne.cloud/*
 *://*.microsoftonline.agency/*
 *://*.microsoftonline.host/*
@@ -233209,6 +233325,7 @@
 *://*.mobil-subesiz-giris.com/*
 *://*.mobil-subesiz-giris.online/*
 *://*.mobil-t-e-b-firsatlari.com/*
+*://*.mobil-tamamla.com/*
 *://*.mobil-tamamlama.com/*
 *://*.mobil-tbmm-aidet-gov-tr.com/*
 *://*.mobil-tbmm-duyuru.ml/*
@@ -234905,6 +235022,7 @@
 *://*.mobilservisler.store/*
 *://*.mobilservisler.xyz/*
 *://*.mobilservisleri-42.sbs/*
+*://*.mobilservisleri-43.sbs/*
 *://*.mobilservisleri.com/*
 *://*.mobilservisleri.online/*
 *://*.mobilservislerim-1.sbs/*
@@ -239457,6 +239575,7 @@
 *://*.muzeportal.com/*
 *://*.muzeportali.click/*
 *://*.muzesitesi.com/*
+*://*.muzetasarim.com/*
 *://*.muzeyegidisler.com/*
 *://*.muzeyerlerim.com/*
 *://*.muzeyyen.site/*
@@ -240839,6 +240958,7 @@
 *://*.namiflo.com/*
 *://*.namikkemalvakfi.net/*
 *://*.namikkemalvakfi.org/*
+*://*.namixio.com/*
 *://*.namixpo.com/*
 *://*.namlnamlnmanla.net/*
 *://*.namnakas.click/*
@@ -243459,6 +243579,7 @@
 *://*.nextgenoftech.world/*
 *://*.nexthas.rocks/*
 *://*.nextizmrnn.net/*
+*://*.nextlanding.net/*
 *://*.nextlevelbizbase.com/*
 *://*.nextlevellacrosse.com/*
 *://*.nextleveltrade.ink/*
@@ -245339,6 +245460,7 @@
 *://*.norylith.com/*
 *://*.nosaf42o3332.click/*
 *://*.nosafo3332.click/*
+*://*.nosarackiralamakurumsal.com/*
 *://*.nosceremonies-lefilm.com/*
 *://*.noscop0125.xyz/*
 *://*.nose3478.xyz/*
@@ -245352,6 +245474,7 @@
 *://*.noseteam.top/*
 *://*.nosetranquil.top/*
 *://*.nosewhereabouts.top/*
+*://*.nosfilokurumsal.com/*
 *://*.noshrubbery.top/*
 *://*.nosidanosa.com/*
 *://*.noslayare.online/*
@@ -247716,6 +247839,7 @@
 *://*.nwdhbiaxcjijxennp.me/*
 *://*.nweasdgharx.net/*
 *://*.nweasdwesdd.net/*
+*://*.nweenwew234.cc/*
 *://*.nwegksmbs.net/*
 *://*.nwelseverrrr.net/*
 *://*.nwesawexold.net/*
@@ -264725,6 +264849,7 @@
 *://*.patchthiswindows.com/*
 *://*.patchymgir.pw/*
 *://*.patdiyealdi.xyz/*
+*://*.patduggan.com/*
 *://*.patelk.online/*
 *://*.patent-harc-govtrr.site/*
 *://*.patent856.xyz/*
@@ -268338,6 +268463,7 @@
 *://*.pntyfcmuousekly.cn/*
 *://*.pnuisckmhwagzvdyjrlbeft.software/*
 *://*.pnwthrive.com/*
+*://*.pnzx6dwm5ed0amqrjq-y.com/*
 *://*.po-bahrain-bh.top/*
 *://*.po32048551238745234.store/*
 *://*.pobaku.com/*
@@ -269467,6 +269593,7 @@
 *://*.potatotoothpaste.info/*
 *://*.potdimensionanimal.com/*
 *://*.potebasmzxpwkqfzxvedsg.live/*
+*://*.poteknolojis.com/*
 *://*.potentambiguous.top/*
 *://*.potentialfeeble.top/*
 *://*.potentialgrowth.site/*
@@ -270525,6 +270652,7 @@
 *://*.pressingspine.top/*
 *://*.presslifyra.com/*
 *://*.pressluma.com/*
+*://*.pressoxi.info/*
 *://*.pressrrodo.com/*
 *://*.pressshift.online/*
 *://*.pressspectrum.com/*
@@ -270556,6 +270684,7 @@
 *://*.prestij-diploma.com/*
 *://*.prestij-insankaynaklari.com/*
 *://*.prestijdiploma.com/*
+*://*.prestijfilo.com/*
 *://*.prestijrentacars.com/*
 *://*.prestijvilla.com/*
 *://*.prestocard.cfd/*
@@ -270769,6 +270898,7 @@
 *://*.primesinfo.ml/*
 *://*.primesource.site/*
 *://*.primesourcehomes.com/*
+*://*.primesyncify.com/*
 *://*.primetanitimi.net/*
 *://*.primetimeessentials.com/*
 *://*.primetrendwave.com/*
@@ -271754,6 +271884,7 @@
 *://*.proliforetka.com/*
 *://*.prolimitler.xyz/*
 *://*.prolinemedia.online/*
+*://*.prolixu.com/*
 *://*.prolkuscus.com.tr/*
 *://*.prologs-consultants.com/*
 *://*.prolokasyon1.xyz/*
@@ -276925,6 +277056,7 @@
 *://*.qavorunexi.org/*
 *://*.qavpazar.com/*
 *://*.qavri.sbs/*
+*://*.qavrix.vip/*
 *://*.qavstorlo.gifts/*
 *://*.qavticlo.gifts/*
 *://*.qavux.shop/*
@@ -277293,6 +277425,7 @@
 *://*.qkzlbf.com/*
 *://*.qkzmen.com/*
 *://*.ql-pttgov.top/*
+*://*.ql9pmbms6a3fuq.cfd/*
 *://*.qlaslco.click/*
 *://*.qlaston.net/*
 *://*.qlbdxhaci.com/*
@@ -278858,6 +278991,7 @@
 *://*.qqsqjeuno53.ru/*
 *://*.qqswwhsmsh.info/*
 *://*.qqt31vsu.ru/*
+*://*.qqtcnbaidu.com/*
 *://*.qqtiawikrlhjjdqee.org/*
 *://*.qqtqvehldthppkg.ru/*
 *://*.qquacontritioullisimpo.com/*
@@ -280121,6 +280255,7 @@
 *://*.raldestory.info/*
 *://*.ralffeisen.com/*
 *://*.rali.live/*
+*://*.ralix39.com/*
 *://*.ralixi.info/*
 *://*.rall21ybracket.top/*
 *://*.rally4kids.site/*
@@ -281702,6 +281837,7 @@
 *://*.recallsimultaneous.top/*
 *://*.recallwithhold.top/*
 *://*.recampaignsbinance.net/*
+*://*.recap-check.org/*
 *://*.recaptcha-in.pw/*
 *://*.recaptcha-loginmeta.com/*
 *://*.recaptcha-manual.shop/*
@@ -285185,6 +285321,7 @@
 *://*.rndevunuhzlgerceklestrrrrrrr.net/*
 *://*.rndevunuzzslasdsddnsh.net/*
 *://*.rndevusorgunvi.net/*
+*://*.rndevuuhzmtlerim.com/*
 *://*.rndevuvar.net/*
 *://*.rndfnjsmkhmwypu.su/*
 *://*.rndhsvizdsfj.store/*
@@ -287282,6 +287419,7 @@
 *://*.s2notion.com/*
 *://*.s2urihgstr.org/*
 *://*.s2ver.online/*
+*://*.s2xyx3r9g1vvgki12i.icu/*
 *://*.s3-microsoft.com/*
 *://*.s3-updatehub.cc/*
 *://*.s3177.site/*
@@ -290034,6 +290172,7 @@
 *://*.sahibindenss-eget-paramguvende.com/*
 *://*.sahibindentamguvenlihizmet.com/*
 *://*.sahibindentarziilanyazilimi.tk/*
+*://*.sahibindenteslimat.com/*
 *://*.sahibindentr-alisverisyap.online/*
 *://*.sahibindentr-mobildepartmani-paranguvende.com/*
 *://*.sahibindentr-paramguvende-guvenli-odeme-com.tk/*
@@ -291357,6 +291496,7 @@
 *://*.sapconcur.top/*
 *://*.sapdfsaodfsadl.online/*
 *://*.sapeconomico.com/*
+*://*.sapiente-dolores-non.top/*
 *://*.saplit.com/*
 *://*.sapmleregsrlvaton-clonf.com/*
 *://*.sapostfw.top/*
@@ -293361,6 +293501,7 @@
 *://*.securealisveris.com/*
 *://*.securealisveris.org/*
 *://*.securealisverisler.com/*
+*://*.secureapi-connect.xyz/*
 *://*.secureapplication.com.tr/*
 *://*.secureauthpasskey.com/*
 *://*.secureaxess.net/*
@@ -295551,6 +295692,7 @@
 *://*.sepetindeonline.shop/*
 *://*.sepetindesiparisvar.com/*
 *://*.sepetindevar-tr.online/*
+*://*.sepetindevar.online/*
 *://*.sepetindirimfirsatlarinda.online/*
 *://*.sepetindirimfirsatlarsizlerle.com.tr/*
 *://*.sepetindirimi.cfd/*
@@ -295574,6 +295716,7 @@
 *://*.sepetiniz-tr.online/*
 *://*.sepetinizde.com.tr/*
 *://*.sepetinizdeindirimleryapiyoruz.com/*
+*://*.sepetinize-ekle.com.tr/*
 *://*.sepetinizislemleri.com/*
 *://*.sepetinizislemlerim.com/*
 *://*.sepetinkolay.click/*
@@ -295624,6 +295767,7 @@
 *://*.sepette-aktif.com.tr/*
 *://*.sepette-alisveris.com/*
 *://*.sepette-alisverisim.com/*
+*://*.sepette-ekle.com.tr/*
 *://*.sepette-guvenli-alisveris.com/*
 *://*.sepette-ilanlar-9811.com/*
 *://*.sepette-ilanlar-9812.com/*
@@ -297161,6 +297305,7 @@
 *://*.sferitys.org/*
 *://*.sfernacrif.com/*
 *://*.sffguvende.online/*
+*://*.sfgiantslive.com/*
 *://*.sfgsdgsdfhdfa.click/*
 *://*.sfhlmsfhmlsf.com/*
 *://*.sfhpwtzlbl.com/*
@@ -301338,6 +301483,7 @@
 *://*.siparisimonline.com.tr/*
 *://*.siparisimpttavm.com/*
 *://*.siparisimtakip.com/*
+*://*.siparisin-guvende.com/*
 *://*.siparisin-magazada.com/*
 *://*.siparisin.com.tr/*
 *://*.siparisinadresi.com/*
@@ -302935,7 +303081,9 @@
 *://*.skhlamencek.com/*
 *://*.skhosting.com.tr/*
 *://*.skhxbsvrx.tech/*
+*://*.skibidiproliv.com/*
 *://*.skibidirizz.lol/*
+*://*.skibidistealer.team/*
 *://*.skicontingent.top/*
 *://*.skid.uno/*
 *://*.skidxllc.com/*
@@ -304398,6 +304546,7 @@
 *://*.sockstandby.top/*
 *://*.socktopiashop.com/*
 *://*.socla1.net/*
+*://*.socluo.cc/*
 *://*.socourtesy.top/*
 *://*.socs6c.icu/*
 *://*.sodaandcoke.top/*
@@ -304953,6 +305102,7 @@
 *://*.sokmafetil.com/*
 *://*.sokmagazalari.com.tr/*
 *://*.sokmakket.shop/*
+*://*.sokmakltil.xyz/*
 *://*.sokmakterin.com/*
 *://*.sokmalrket.shop/*
 *://*.sokmarkatlar.com/*
@@ -313764,6 +313914,7 @@
 *://*.sunskyeco.online/*
 *://*.sunspass.com/*
 *://*.sunspasstollsservices.com/*
+*://*.sunt-asperiores-quaerat.top/*
 *://*.suntechnicaifzc.com/*
 *://*.suntrailan.com/*
 *://*.suntrailz.com/*
@@ -315357,6 +315508,7 @@
 *://*.systemcoulds.com/*
 *://*.systemdownstrong.net/*
 *://*.systemdriverupdate.com/*
+*://*.systemformating.rest/*
 *://*.systemguarcd.com/*
 *://*.systemguarding.com/*
 *://*.systemguardnecs.com/*
@@ -317105,6 +317257,7 @@
 *://*.tasarruflumutfakalisverisiyontemleri.cfd/*
 *://*.tasarrufplani-2024.online/*
 *://*.tasbeehzone.com/*
+*://*.tascredit-pay.com/*
 *://*.tasfiye-deposu.com/*
 *://*.tashdqdxp.com/*
 *://*.tashkcity.com/*
@@ -321465,6 +321618,7 @@
 *://*.tendtudonet.com/*
 *://*.teneta.group/*
 *://*.tenetflow.my/*
+*://*.tenetur-neque-in.top/*
 *://*.tenetur.top/*
 *://*.tenetur.xyz/*
 *://*.tengribizmenen.cf/*
@@ -323715,6 +323869,9 @@
 *://*.tkg-tapsurndvnuz.net/*
 *://*.tkg-tapsurndvnuzs.info/*
 *://*.tkg-tapsurndvnuzs.net/*
+*://*.tkg-tapursavnevun.com/*
+*://*.tkg-tapursavnevun.site/*
+*://*.tkg-tapursavnevunz.com/*
 *://*.tkg-tapvrdvsunuz.info/*
 *://*.tkg-tapvrdvsunuz.net/*
 *://*.tkg-tapvrdvsunuz.org/*
@@ -324686,6 +324843,7 @@
 *://*.togg-arac-kredileri.com/*
 *://*.togg-basvuru-siparis.com/*
 *://*.togg-basvuru.online/*
+*://*.togg-basvuru.org/*
 *://*.togg-cekilis.com/*
 *://*.togg-e.com/*
 *://*.togg-faizsizlimitlerim.com/*
@@ -330077,6 +330235,7 @@
 *://*.trbys.info/*
 *://*.trc-cimer.com/*
 *://*.trc-ekonomi-baknligi-iade-basvuru-form.tk/*
+*://*.trc006.com/*
 *://*.trcanlidestek.com/*
 *://*.trcarpente.com/*
 *://*.trcarrefor.cfd/*
@@ -330374,6 +330533,7 @@
 *://*.trendbolster.top/*
 *://*.trendbox-tr.online/*
 *://*.trendburasigelal.online/*
+*://*.trendburdacep.online/*
 *://*.trendbuy-tr.online/*
 *://*.trendcallcenter.com/*
 *://*.trendcast.media/*
@@ -337126,6 +337286,7 @@
 *://*.tuvteskefetarac.net/*
 *://*.tuvtkr-mynekxl.net/*
 *://*.tuvtkrkdf.net/*
+*://*.tuvtkrkdkkdgsd.net/*
 *://*.tuvtork.com/*
 *://*.tuvtr-veri-system.net/*
 *://*.tuvtr.click/*
@@ -341495,6 +341656,7 @@
 *://*.uuyp-dsykntrl.com/*
 *://*.uva1o1.net/*
 *://*.uvanas.net/*
+*://*.uvarykytuvi.company/*
 *://*.uvbuyxgb.info/*
 *://*.uvckredvt-vsde.com/*
 *://*.uvderjt-vflret.com/*
@@ -342270,6 +342432,7 @@
 *://*.uzaydan-soguk-dokunuslar.sbs/*
 *://*.uzayfree.xyz/*
 *://*.uzaygbnxecell.net/*
+*://*.uzayhavas.shop/*
 *://*.uzaykesifveteknolojigelecegimizinharitasi.xyz/*
 *://*.uzayli.name.tr/*
 *://*.uzaysabun.online/*
@@ -342872,6 +343035,7 @@
 *://*.v4rgi0demehizmetleri.net/*
 *://*.v4rgix3wxdfgifixode.net/*
 *://*.v4shelp.top/*
+*://*.v5cdx1zyk9hulab7.net/*
 *://*.v5denizgiriscom.cf/*
 *://*.v5denizgiriscom.ga/*
 *://*.v5denizgiriscom.gq/*
@@ -345958,6 +346122,7 @@
 *://*.vazpolki.digital/*
 *://*.vazsellq.com/*
 *://*.vazwymj.com/*
+*://*.vazz3321.site/*
 *://*.vb-basvuruyap.xyz/*
 *://*.vb-cekilis.cf/*
 *://*.vb-cekilisi.cf/*
@@ -349182,6 +349347,7 @@
 *://*.vizyonpusulasi.online/*
 *://*.vizyonsepeti.online/*
 *://*.vizyontrfk.dev/*
+*://*.vizyonufukrotasi.com/*
 *://*.vizyonvakfi.org/*
 *://*.vja00te.cn/*
 *://*.vjaxhpbji.biz/*
@@ -349580,6 +349746,7 @@
 *://*.vkwqr.com/*
 *://*.vkxjvccrvssimbc.cn/*
 *://*.vlad-cdn.com/*
+*://*.vlad-nazarenko2004.club/*
 *://*.vladinthehood.tech/*
 *://*.vladisfoxlink.ru/*
 *://*.vlalmxtr1.net/*
@@ -350913,6 +351080,7 @@
 *://*.vvvvvv-trbinance.com/*
 *://*.vvvvvv-vakifsubesiz.com/*
 *://*.vvvvvvv-icloud.com/*
+*://*.vvvvvvvvvv1212.com/*
 *://*.vvvvw-edevlet.com/*
 *://*.vvvvw-ifindlcloud.com/*
 *://*.vvvvw-ifindmybr.com/*
@@ -352675,6 +352843,7 @@
 *://*.web.app/*
 *://*.web.services/*
 *://*.web000aaa.info/*
+*://*.web00132r.site/*
 *://*.web01tbbmmcc.ga/*
 *://*.web02tbbmmcc.ga/*
 *://*.web03tbbmmcc.ga/*
@@ -354416,6 +354585,7 @@
 *://*.wenakmz.com/*
 *://*.wendicraft.site/*
 *://*.wending015.com/*
+*://*.wendinghui70.vip/*
 *://*.wendoun.com/*
 *://*.wendyllc.com/*
 *://*.wendyshop.com.tr/*
@@ -355546,6 +355716,7 @@
 *://*.wljwzqk.xyz/*
 *://*.wllvnzb.biz/*
 *://*.wlmzmrmyklemeler.net/*
+*://*.wlnjn-1-zpg1-uy87qt.live/*
 *://*.wlnvwg.cyou/*
 *://*.wlopbnyu.com/*
 *://*.wlopt.com/*
@@ -355731,6 +355902,7 @@
 *://*.woodagony.top/*
 *://*.woodcockslincoln.world/*
 *://*.woodenbald.top/*
+*://*.woodenbook.info/*
 *://*.woodendecimal.top/*
 *://*.woodenhillz.top/*
 *://*.woodenmagireal.online/*
@@ -356117,6 +356289,7 @@
 *://*.worthlessrehearse.top/*
 *://*.worthlesstub.top/*
 *://*.woryedorsemnt.top/*
+*://*.wosback.cc/*
 *://*.woscarfilo.com/*
 *://*.woskesal-hemen.click/*
 *://*.wosqpg.com/*
@@ -371745,6 +371918,7 @@
 *://*.ydqriusovdajqcdwoicdl.pw/*
 *://*.ydsyii.com/*
 *://*.yduyyoxu.io/*
+*://*.ydwk8.com/*
 *://*.ydx-stat.ru/*
 *://*.ydxpwzhidexgny.com/*
 *://*.ydyrrpfeqmji.com/*
@@ -372300,6 +372474,7 @@
 *://*.yenidalga.online/*
 *://*.yenidalga.world/*
 *://*.yeniddenaktif.net/*
+*://*.yenidegermerkezi.com/*
 *://*.yeniden-aktarimlar-baslamistir.online/*
 *://*.yeniden-ayaga-kalkiyoruz-halkimizla.online/*
 *://*.yeniden-bahar-gelecek-karsinizda-satiko-hayirli-olsun.com/*
@@ -373517,6 +373692,7 @@
 *://*.yenlmemkralmam.net/*
 *://*.yenmek.app/*
 *://*.yenni-hizzmet.net/*
+*://*.yenova.gifts/*
 *://*.yenpairbubxhmngr.com/*
 *://*.yenpairbubxhmngrs.com/*
 *://*.yenpairbuwlletbxgr.com/*
@@ -375075,8 +375251,10 @@
 *://*.ykndaasncaerece543.pro/*
 *://*.ykndaasonacerecek5263.online/*
 *://*.ykndasonace45430.online/*
+*://*.ykndasonacerece5436.online/*
 *://*.ykndsonaecek4148.online/*
 *://*.yknoxe.xyz/*
+*://*.ykobovases.online/*
 *://*.ykodaknvgggesxx.com/*
 *://*.ykpcepsube.com/*
 *://*.ykpromemkli.com/*
@@ -377588,6 +377766,7 @@
 *://*.zalthira.com/*
 *://*.zaltori.org/*
 *://*.zaltrom.xyz/*
+*://*.zalupka.website/*
 *://*.zam070504.site/*
 *://*.zamaanflrsatherkesolsadaatayim.store/*
 *://*.zamamns-gecti-gidsito-aldin.store/*
@@ -378473,6 +378652,7 @@
 *://*.zhara-festival.com/*
 *://*.zhcgsa.help/*
 *://*.zhcn-whatsapp.org/*
+*://*.zhcnn.com/*
 *://*.zhdbio.online/*
 *://*.zhdenizbank.com/*
 *://*.zhengdeyaogenpangu.top/*
@@ -380828,6 +381008,7 @@
 *://*.zolmeran.com/*
 *://*.zolo.pw/*
 *://*.zolokin.xyz/*
+*://*.zolotoy.club/*
 *://*.zolqaren.vu/*
 *://*.zolvena.shop/*
 *://*.zolvica.shop/*
@@ -381027,6 +381208,7 @@
 *://*.zosuus.website/*
 *://*.zosyete.com/*
 *://*.zosyete.online/*
+*://*.zotasawe.com/*
 *://*.zotemari.site/*
 *://*.zotox.click/*
 *://*.zotropherno.com/*
@@ -381311,6 +381493,7 @@
 *://*.zunarikex.com/*
 *://*.zunazao.com/*
 *://*.zunelovix.com/*
+*://*.zunelp.vip/*
 *://*.zunex.cyou/*
 *://*.zunirov.gifts/*
 *://*.zunivo.cyou/*
